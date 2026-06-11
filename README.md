@@ -50,3 +50,11 @@ You can customize it further based on the specific details of your repository, s
 
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0619-biggest-single-number](https://github.com/gokul-rm/leetCode/tree/main/0619-biggest-single-number/) | Easy |
+<!---LeetCode Topics End-->
