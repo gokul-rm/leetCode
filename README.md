@@ -59,4 +59,16 @@ You can customize it further based on the specific details of your repository, s
 | [0619-biggest-single-number](https://github.com/gokul-rm/leetCode/tree/main/0619-biggest-single-number/) | Easy |
 | [1211-queries-quality-and-percentage](https://github.com/gokul-rm/leetCode/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1251-average-selling-price](https://github.com/gokul-rm/leetCode/tree/main/1251-average-selling-price/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0036-valid-sudoku](https://github.com/gokul-rm/leetCode/tree/main/0036-valid-sudoku/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0036-valid-sudoku](https://github.com/gokul-rm/leetCode/tree/main/0036-valid-sudoku/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0036-valid-sudoku](https://github.com/gokul-rm/leetCode/tree/main/0036-valid-sudoku/) | Medium |
 <!---LeetCode Topics End-->
