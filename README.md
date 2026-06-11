@@ -57,5 +57,6 @@ You can customize it further based on the specific details of your repository, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0619-biggest-single-number](https://github.com/gokul-rm/leetCode/tree/main/0619-biggest-single-number/) | Easy |
+| [1211-queries-quality-and-percentage](https://github.com/gokul-rm/leetCode/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1251-average-selling-price](https://github.com/gokul-rm/leetCode/tree/main/1251-average-selling-price/) | Easy |
 <!---LeetCode Topics End-->
