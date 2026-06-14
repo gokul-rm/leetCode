@@ -95,6 +95,7 @@ You can customize it further based on the specific details of your repository, s
 | [0496-next-greater-element-i](https://github.com/gokul-rm/leetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/gokul-rm/leetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/gokul-rm/leetCode/tree/main/0739-daily-temperatures/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/gokul-rm/leetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,4 +118,12 @@ You can customize it further based on the specific details of your repository, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3838-weighted-word-mapping](https://github.com/gokul-rm/leetCode/tree/main/3838-weighted-word-mapping/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/gokul-rm/leetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/gokul-rm/leetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
