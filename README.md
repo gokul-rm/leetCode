@@ -71,6 +71,7 @@ You can customize it further based on the specific details of your repository, s
 | [0645-set-mismatch](https://github.com/gokul-rm/leetCode/tree/main/0645-set-mismatch/) | Easy |
 | [0739-daily-temperatures](https://github.com/gokul-rm/leetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gokul-rm/leetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1441-build-an-array-with-stack-operations](https://github.com/gokul-rm/leetCode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/gokul-rm/leetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -103,6 +104,7 @@ You can customize it further based on the specific details of your repository, s
 | [0496-next-greater-element-i](https://github.com/gokul-rm/leetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/gokul-rm/leetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/gokul-rm/leetCode/tree/main/0739-daily-temperatures/) | Medium |
+| [1441-build-an-array-with-stack-operations](https://github.com/gokul-rm/leetCode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/gokul-rm/leetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -125,6 +127,7 @@ You can customize it further based on the specific details of your repository, s
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/gokul-rm/leetCode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/gokul-rm/leetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
