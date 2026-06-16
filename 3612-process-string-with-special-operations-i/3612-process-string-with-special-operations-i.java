@@ -6,7 +6,7 @@ class Solution {
             if(ch == '%') sb.reverse();
             else if(ch == '*'){
                 if(sb.length() > 0)sb.setLength(sb.length() - 1);} 
-            else if(ch == '#') sb.append(sb);
+            else if(ch == '#') sb.append(sb.toString());
             else 
             sb.append(ch);
         }
