@@ -17,6 +17,7 @@ class Solution {
         if(target < 0) return;
 
         for(int i=start;i<nums.length;i++){
+            if(nums[i] > target) continue;
             curr.add(nums[i]);
             backTrack(nums,target - nums[i],i,curr);
             curr.remove(curr.size() - 1);
