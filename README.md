@@ -70,6 +70,7 @@ You can customize it further based on the specific details of your repository, s
 | [0134-gas-station](https://github.com/gokul-rm/leetCode/tree/main/0134-gas-station/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gokul-rm/leetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/gokul-rm/leetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/gokul-rm/leetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gokul-rm/leetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/gokul-rm/leetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/gokul-rm/leetCode/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -104,6 +105,7 @@ You can customize it further based on the specific details of your repository, s
 | [0049-group-anagrams](https://github.com/gokul-rm/leetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/gokul-rm/leetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/gokul-rm/leetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/gokul-rm/leetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0645-set-mismatch](https://github.com/gokul-rm/leetCode/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gokul-rm/leetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Stack
@@ -169,8 +171,13 @@ You can customize it further based on the specific details of your repository, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0134-gas-station](https://github.com/gokul-rm/leetCode/tree/main/0134-gas-station/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/gokul-rm/leetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/gokul-rm/leetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0435-non-overlapping-intervals](https://github.com/gokul-rm/leetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 <!---LeetCode Topics End-->
