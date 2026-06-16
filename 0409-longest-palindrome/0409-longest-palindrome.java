@@ -1,15 +1,19 @@
 class Solution {
     public int longestPalindrome(String s) {
-        Map<Character,Integer> map = new HashMap<>();
-        int length = 0;
-        boolean isOdd = false;
+        int[] freq = new int[126];
 
-        for(char ch : s.toCharArray()) map.put(ch,map.getOrDefault(ch,0)+1);
+        for(char ch : s.toCharArray()) freq[ch]++;
+        int even = 0;
+        byte odd = 0;
 
-        for(int num : map.values()){
-            if(num % 2 == 0) length += num;
-            else {length += num -1; isOdd = true; }
+        for(int i=0;i<126;i++){
+            if(freq[i] %2 == 0){
+                even += freq[i];
+            } else{
+                even += freq[i] - 1;
+                odd = 1;
+            }
         }
-        return isOdd ? length+1 : length;
+        return odd + even;
     }
 }
