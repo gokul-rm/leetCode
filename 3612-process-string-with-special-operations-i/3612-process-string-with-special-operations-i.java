@@ -3,13 +3,12 @@ class Solution {
         StringBuilder sb = new StringBuilder();
 
         for(char ch : s.toCharArray()){
-            if(ch >= 'a' && ch<='z'){
-                sb.append(ch);
-            }
+            if(ch == '%') sb.reverse();
             else if(ch == '*'){
                 if(sb.length() > 0)sb.setLength(sb.length() - 1);} 
             else if(ch == '#') sb.append(sb);
-            else sb.reverse();
+            else 
+            sb.append(ch);
         }
         return sb.toString();
     }
