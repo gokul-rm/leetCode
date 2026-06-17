@@ -146,11 +146,13 @@ You can customize it further based on the specific details of your repository, s
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/gokul-rm/leetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/gokul-rm/leetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/gokul-rm/leetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/gokul-rm/leetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/gokul-rm/leetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/gokul-rm/leetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Bit Manipulation
