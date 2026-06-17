@@ -146,6 +146,7 @@ You can customize it further based on the specific details of your repository, s
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/gokul-rm/leetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gokul-rm/leetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/gokul-rm/leetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/gokul-rm/leetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -168,6 +169,7 @@ You can customize it further based on the specific details of your repository, s
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/gokul-rm/leetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gokul-rm/leetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -187,4 +189,8 @@ You can customize it further based on the specific details of your repository, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0435-non-overlapping-intervals](https://github.com/gokul-rm/leetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/gokul-rm/leetCode/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
