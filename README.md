@@ -69,6 +69,7 @@ You can customize it further based on the specific details of your repository, s
 | [0128-longest-consecutive-sequence](https://github.com/gokul-rm/leetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0134-gas-station](https://github.com/gokul-rm/leetCode/tree/main/0134-gas-station/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gokul-rm/leetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/gokul-rm/leetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/gokul-rm/leetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/gokul-rm/leetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gokul-rm/leetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -205,4 +206,16 @@ You can customize it further based on the specific details of your repository, s
 | [0002-add-two-numbers](https://github.com/gokul-rm/leetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0143-reorder-list](https://github.com/gokul-rm/leetCode/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/gokul-rm/leetCode/tree/main/0234-palindrome-linked-list/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/gokul-rm/leetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/gokul-rm/leetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/gokul-rm/leetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
