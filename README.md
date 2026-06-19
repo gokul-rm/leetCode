@@ -219,6 +219,7 @@ You can customize it further based on the specific details of your repository, s
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gokul-rm/leetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/gokul-rm/leetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/gokul-rm/leetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0278-first-bad-version](https://github.com/gokul-rm/leetCode/tree/main/0278-first-bad-version/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -252,4 +253,8 @@ You can customize it further based on the specific details of your repository, s
 | ------- | ------- |
 | [0112-path-sum](https://github.com/gokul-rm/leetCode/tree/main/0112-path-sum/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/gokul-rm/leetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/gokul-rm/leetCode/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
