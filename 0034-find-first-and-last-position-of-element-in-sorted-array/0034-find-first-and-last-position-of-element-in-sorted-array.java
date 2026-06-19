@@ -1,12 +1,9 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
-        int[] res = {-1,-1};
         int left = binarySearch(nums,target,true);
         int right = binarySearch(nums,target,false);
-        
-        res[0] = left;
-        res[1] = right;
-        return res;
+
+        return new int[]{left,right};
     }
 
     public int binarySearch(int[] nums,int target,boolean isLeft){
