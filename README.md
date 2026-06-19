@@ -176,6 +176,7 @@ You can customize it further based on the specific details of your repository, s
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/gokul-rm/leetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0645-set-mismatch](https://github.com/gokul-rm/leetCode/tree/main/0645-set-mismatch/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -215,6 +216,7 @@ You can customize it further based on the specific details of your repository, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/gokul-rm/leetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/gokul-rm/leetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -234,6 +236,7 @@ You can customize it further based on the specific details of your repository, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/gokul-rm/leetCode/tree/main/0112-path-sum/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/gokul-rm/leetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -246,4 +249,5 @@ You can customize it further based on the specific details of your repository, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/gokul-rm/leetCode/tree/main/0112-path-sum/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/gokul-rm/leetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 <!---LeetCode Topics End-->
