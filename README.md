@@ -157,6 +157,7 @@ You can customize it further based on the specific details of your repository, s
 | [0002-add-two-numbers](https://github.com/gokul-rm/leetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gokul-rm/leetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0061-rotate-list](https://github.com/gokul-rm/leetCode/tree/main/0061-rotate-list/) | Medium |
+| [0092-reverse-linked-list-ii](https://github.com/gokul-rm/leetCode/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0143-reorder-list](https://github.com/gokul-rm/leetCode/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/gokul-rm/leetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/gokul-rm/leetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
