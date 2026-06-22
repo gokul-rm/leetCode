@@ -11,7 +11,7 @@ class Solution {
                 minp = temp;
             }
             minp = Math.max(nums[i],minp*nums[i]);
-            maxp = Math.max(nums[i],maxp*nums[i]);
+            maxp = Math.min(nums[i],maxp*nums[i]);
 
             res = Math.max(res,maxp);
         }
