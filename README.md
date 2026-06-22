@@ -89,6 +89,7 @@ You can customize it further based on the specific details of your repository, s
 | [1441-build-an-array-with-stack-operations](https://github.com/gokul-rm/leetCode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/gokul-rm/leetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/gokul-rm/leetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [2073-time-needed-to-buy-tickets](https://github.com/gokul-rm/leetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gokul-rm/leetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/gokul-rm/leetCode/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/gokul-rm/leetCode/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -164,6 +165,7 @@ You can customize it further based on the specific details of your repository, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/gokul-rm/leetCode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
+| [2073-time-needed-to-buy-tickets](https://github.com/gokul-rm/leetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gokul-rm/leetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/gokul-rm/leetCode/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/gokul-rm/leetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -289,4 +291,8 @@ You can customize it further based on the specific details of your repository, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/gokul-rm/leetCode/tree/main/0278-first-bad-version/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/gokul-rm/leetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 <!---LeetCode Topics End-->
