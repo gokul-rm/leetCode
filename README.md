@@ -72,6 +72,7 @@ You can customize it further based on the specific details of your repository, s
 | [0128-longest-consecutive-sequence](https://github.com/gokul-rm/leetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0134-gas-station](https://github.com/gokul-rm/leetCode/tree/main/0134-gas-station/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gokul-rm/leetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/gokul-rm/leetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/gokul-rm/leetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/gokul-rm/leetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/gokul-rm/leetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -240,6 +241,7 @@ You can customize it further based on the specific details of your repository, s
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0152-maximum-product-subarray](https://github.com/gokul-rm/leetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/gokul-rm/leetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
