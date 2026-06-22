@@ -74,6 +74,7 @@ You can customize it further based on the specific details of your repository, s
 | [0150-evaluate-reverse-polish-notation](https://github.com/gokul-rm/leetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/gokul-rm/leetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/gokul-rm/leetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/gokul-rm/leetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/gokul-rm/leetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/gokul-rm/leetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gokul-rm/leetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -188,6 +189,7 @@ You can customize it further based on the specific details of your repository, s
 | [0061-rotate-list](https://github.com/gokul-rm/leetCode/tree/main/0061-rotate-list/) | Medium |
 | [0143-reorder-list](https://github.com/gokul-rm/leetCode/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/gokul-rm/leetCode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/gokul-rm/leetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/gokul-rm/leetCode/tree/main/0344-reverse-string/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/gokul-rm/leetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/gokul-rm/leetCode/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -199,6 +201,7 @@ You can customize it further based on the specific details of your repository, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/gokul-rm/leetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/gokul-rm/leetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0645-set-mismatch](https://github.com/gokul-rm/leetCode/tree/main/0645-set-mismatch/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -246,6 +249,7 @@ You can customize it further based on the specific details of your repository, s
 | [0209-minimum-size-subarray-sum](https://github.com/gokul-rm/leetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/gokul-rm/leetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0278-first-bad-version](https://github.com/gokul-rm/leetCode/tree/main/0278-first-bad-version/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/gokul-rm/leetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
