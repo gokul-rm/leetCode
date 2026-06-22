@@ -10,8 +10,8 @@ class Solution {
                 maxp = minp;
                 minp = temp;
             }
-            minp = Math.max(nums[i],minp*nums[i]);
-            maxp = Math.min(nums[i],maxp*nums[i]);
+            minp = Math.min(nums[i],minp*nums[i]);
+            maxp = Math.max(nums[i],maxp*nums[i]);
 
             res = Math.max(res,maxp);
         }
