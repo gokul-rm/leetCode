@@ -68,6 +68,7 @@ You can customize it further based on the specific details of your repository, s
 | [0036-valid-sudoku](https://github.com/gokul-rm/leetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0039-combination-sum](https://github.com/gokul-rm/leetCode/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/gokul-rm/leetCode/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/gokul-rm/leetCode/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/gokul-rm/leetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/gokul-rm/leetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/gokul-rm/leetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -126,6 +127,7 @@ You can customize it further based on the specific details of your repository, s
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0047-permutations-ii](https://github.com/gokul-rm/leetCode/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/gokul-rm/leetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/gokul-rm/leetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/gokul-rm/leetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -229,6 +231,7 @@ You can customize it further based on the specific details of your repository, s
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/gokul-rm/leetCode/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/gokul-rm/leetCode/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/gokul-rm/leetCode/tree/main/0047-permutations-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
