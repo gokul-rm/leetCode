@@ -298,6 +298,7 @@ You can customize it further based on the specific details of your repository, s
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0110-balanced-binary-tree](https://github.com/gokul-rm/leetCode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/gokul-rm/leetCode/tree/main/0112-path-sum/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/gokul-rm/leetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/gokul-rm/leetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
@@ -305,6 +306,7 @@ You can customize it further based on the specific details of your repository, s
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0110-balanced-binary-tree](https://github.com/gokul-rm/leetCode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/gokul-rm/leetCode/tree/main/0112-path-sum/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/gokul-rm/leetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/gokul-rm/leetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -316,6 +318,7 @@ You can customize it further based on the specific details of your repository, s
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0110-balanced-binary-tree](https://github.com/gokul-rm/leetCode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/gokul-rm/leetCode/tree/main/0112-path-sum/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/gokul-rm/leetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/gokul-rm/leetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
