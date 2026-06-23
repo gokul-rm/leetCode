@@ -303,6 +303,7 @@ You can customize it further based on the specific details of your repository, s
 | [0145-binary-tree-postorder-traversal](https://github.com/gokul-rm/leetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/gokul-rm/leetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/gokul-rm/leetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/gokul-rm/leetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -310,6 +311,7 @@ You can customize it further based on the specific details of your repository, s
 | [0112-path-sum](https://github.com/gokul-rm/leetCode/tree/main/0112-path-sum/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/gokul-rm/leetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/gokul-rm/leetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/gokul-rm/leetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -323,6 +325,7 @@ You can customize it further based on the specific details of your repository, s
 | [0145-binary-tree-postorder-traversal](https://github.com/gokul-rm/leetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/gokul-rm/leetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/gokul-rm/leetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/gokul-rm/leetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -331,4 +334,12 @@ You can customize it further based on the specific details of your repository, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/gokul-rm/leetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/gokul-rm/leetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/gokul-rm/leetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 <!---LeetCode Topics End-->
