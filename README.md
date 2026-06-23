@@ -84,6 +84,7 @@ You can customize it further based on the specific details of your repository, s
 | [0435-non-overlapping-intervals](https://github.com/gokul-rm/leetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gokul-rm/leetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0455-assign-cookies](https://github.com/gokul-rm/leetCode/tree/main/0455-assign-cookies/) | Easy |
+| [0494-target-sum](https://github.com/gokul-rm/leetCode/tree/main/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/gokul-rm/leetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/gokul-rm/leetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0561-array-partition](https://github.com/gokul-rm/leetCode/tree/main/0561-array-partition/) | Easy |
@@ -238,6 +239,7 @@ You can customize it further based on the specific details of your repository, s
 | [0040-combination-sum-ii](https://github.com/gokul-rm/leetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/gokul-rm/leetCode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/gokul-rm/leetCode/tree/main/0047-permutations-ii/) | Medium |
+| [0494-target-sum](https://github.com/gokul-rm/leetCode/tree/main/0494-target-sum/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -257,6 +259,7 @@ You can customize it further based on the specific details of your repository, s
 | [0152-maximum-product-subarray](https://github.com/gokul-rm/leetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0322-coin-change](https://github.com/gokul-rm/leetCode/tree/main/0322-coin-change/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/gokul-rm/leetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0494-target-sum](https://github.com/gokul-rm/leetCode/tree/main/0494-target-sum/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/gokul-rm/leetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/gokul-rm/leetCode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Recursion
