@@ -67,6 +67,7 @@ You can customize it further based on the specific details of your repository, s
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gokul-rm/leetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0036-valid-sudoku](https://github.com/gokul-rm/leetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0039-combination-sum](https://github.com/gokul-rm/leetCode/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/gokul-rm/leetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/gokul-rm/leetCode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/gokul-rm/leetCode/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/gokul-rm/leetCode/tree/main/0049-group-anagrams/) | Medium |
@@ -230,6 +231,7 @@ You can customize it further based on the specific details of your repository, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/gokul-rm/leetCode/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/gokul-rm/leetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/gokul-rm/leetCode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/gokul-rm/leetCode/tree/main/0047-permutations-ii/) | Medium |
 ## Greedy
