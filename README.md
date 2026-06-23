@@ -252,6 +252,7 @@ You can customize it further based on the specific details of your repository, s
 | [0152-maximum-product-subarray](https://github.com/gokul-rm/leetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/gokul-rm/leetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/gokul-rm/leetCode/tree/main/1143-longest-common-subsequence/) | Medium |
+| [3699-number-of-zigzag-arrays-i](https://github.com/gokul-rm/leetCode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -277,6 +278,7 @@ You can customize it further based on the specific details of your repository, s
 | [0209-minimum-size-subarray-sum](https://github.com/gokul-rm/leetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/gokul-rm/leetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/gokul-rm/leetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [3699-number-of-zigzag-arrays-i](https://github.com/gokul-rm/leetCode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
