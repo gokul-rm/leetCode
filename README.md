@@ -98,6 +98,7 @@ You can customize it further based on the specific details of your repository, s
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gokul-rm/leetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/gokul-rm/leetCode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/gokul-rm/leetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1822-sign-of-the-product-of-an-array](https://github.com/gokul-rm/leetCode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/gokul-rm/leetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/gokul-rm/leetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/gokul-rm/leetCode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -254,6 +255,7 @@ You can customize it further based on the specific details of your repository, s
 | [0002-add-two-numbers](https://github.com/gokul-rm/leetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gokul-rm/leetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/gokul-rm/leetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1822-sign-of-the-product-of-an-array](https://github.com/gokul-rm/leetCode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/gokul-rm/leetCode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2652-sum-multiples](https://github.com/gokul-rm/leetCode/tree/main/2652-sum-multiples/) | Easy |
 ## Backtracking
