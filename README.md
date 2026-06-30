@@ -120,6 +120,7 @@ You can customize it further based on the specific details of your repository, s
 | [0496-next-greater-element-i](https://github.com/gokul-rm/leetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0645-set-mismatch](https://github.com/gokul-rm/leetCode/tree/main/0645-set-mismatch/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/gokul-rm/leetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/gokul-rm/leetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gokul-rm/leetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/gokul-rm/leetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 ## Matrix
@@ -137,6 +138,7 @@ You can customize it further based on the specific details of your repository, s
 | [0657-robot-return-to-origin](https://github.com/gokul-rm/leetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/gokul-rm/leetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/gokul-rm/leetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/gokul-rm/leetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/gokul-rm/leetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/gokul-rm/leetCode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/gokul-rm/leetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -312,6 +314,7 @@ You can customize it further based on the specific details of your repository, s
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/gokul-rm/leetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/gokul-rm/leetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/gokul-rm/leetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
