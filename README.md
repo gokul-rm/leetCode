@@ -140,6 +140,7 @@ You can customize it further based on the specific details of your repository, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/gokul-rm/leetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0115-distinct-subsequences](https://github.com/gokul-rm/leetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/gokul-rm/leetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0344-reverse-string](https://github.com/gokul-rm/leetCode/tree/main/0344-reverse-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/gokul-rm/leetCode/tree/main/0409-longest-palindrome/) | Easy |
@@ -308,6 +309,7 @@ You can customize it further based on the specific details of your repository, s
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/gokul-rm/leetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/gokul-rm/leetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/gokul-rm/leetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0322-coin-change](https://github.com/gokul-rm/leetCode/tree/main/0322-coin-change/) | Medium |
