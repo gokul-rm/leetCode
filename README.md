@@ -126,6 +126,7 @@ You can customize it further based on the specific details of your repository, s
 | [0409-longest-palindrome](https://github.com/gokul-rm/leetCode/tree/main/0409-longest-palindrome/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gokul-rm/leetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/gokul-rm/leetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0535-encode-and-decode-tinyurl](https://github.com/gokul-rm/leetCode/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0645-set-mismatch](https://github.com/gokul-rm/leetCode/tree/main/0645-set-mismatch/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/gokul-rm/leetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/gokul-rm/leetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -145,6 +146,7 @@ You can customize it further based on the specific details of your repository, s
 | [0344-reverse-string](https://github.com/gokul-rm/leetCode/tree/main/0344-reverse-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/gokul-rm/leetCode/tree/main/0409-longest-palindrome/) | Easy |
 | [0443-string-compression](https://github.com/gokul-rm/leetCode/tree/main/0443-string-compression/) | Medium |
+| [0535-encode-and-decode-tinyurl](https://github.com/gokul-rm/leetCode/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/gokul-rm/leetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/gokul-rm/leetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/gokul-rm/leetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -357,6 +359,7 @@ You can customize it further based on the specific details of your repository, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/gokul-rm/leetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0535-encode-and-decode-tinyurl](https://github.com/gokul-rm/leetCode/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/gokul-rm/leetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -410,6 +413,7 @@ You can customize it further based on the specific details of your repository, s
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/gokul-rm/leetCode/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/gokul-rm/leetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
