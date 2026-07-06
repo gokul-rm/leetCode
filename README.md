@@ -76,6 +76,7 @@ You can customize it further based on the specific details of your repository, s
 | [0049-group-anagrams](https://github.com/gokul-rm/leetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/gokul-rm/leetCode/tree/main/0051-n-queens/) | Hard |
 | [0056-merge-intervals](https://github.com/gokul-rm/leetCode/tree/main/0056-merge-intervals/) | Medium |
+| [0078-subsets](https://github.com/gokul-rm/leetCode/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/gokul-rm/leetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0090-subsets-ii](https://github.com/gokul-rm/leetCode/tree/main/0090-subsets-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/gokul-rm/leetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -255,6 +256,7 @@ You can customize it further based on the specific details of your repository, s
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/gokul-rm/leetCode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/gokul-rm/leetCode/tree/main/0090-subsets-ii/) | Medium |
 | [0137-single-number-ii](https://github.com/gokul-rm/leetCode/tree/main/0137-single-number-ii/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/gokul-rm/leetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
@@ -284,6 +286,7 @@ You can customize it further based on the specific details of your repository, s
 | [0046-permutations](https://github.com/gokul-rm/leetCode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/gokul-rm/leetCode/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/gokul-rm/leetCode/tree/main/0051-n-queens/) | Hard |
+| [0078-subsets](https://github.com/gokul-rm/leetCode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/gokul-rm/leetCode/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/gokul-rm/leetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0494-target-sum](https://github.com/gokul-rm/leetCode/tree/main/0494-target-sum/) | Medium |
