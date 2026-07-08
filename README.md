@@ -82,6 +82,7 @@ You can customize it further based on the specific details of your repository, s
 | [0128-longest-consecutive-sequence](https://github.com/gokul-rm/leetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0134-gas-station](https://github.com/gokul-rm/leetCode/tree/main/0134-gas-station/) | Medium |
 | [0137-single-number-ii](https://github.com/gokul-rm/leetCode/tree/main/0137-single-number-ii/) | Medium |
+| [0139-word-break](https://github.com/gokul-rm/leetCode/tree/main/0139-word-break/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gokul-rm/leetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/gokul-rm/leetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/gokul-rm/leetCode/tree/main/0198-house-robber/) | Medium |
@@ -126,6 +127,7 @@ You can customize it further based on the specific details of your repository, s
 | [0036-valid-sudoku](https://github.com/gokul-rm/leetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/gokul-rm/leetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/gokul-rm/leetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0139-word-break](https://github.com/gokul-rm/leetCode/tree/main/0139-word-break/) | Medium |
 | [0409-longest-palindrome](https://github.com/gokul-rm/leetCode/tree/main/0409-longest-palindrome/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gokul-rm/leetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/gokul-rm/leetCode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -147,6 +149,7 @@ You can customize it further based on the specific details of your repository, s
 | [0049-group-anagrams](https://github.com/gokul-rm/leetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0115-distinct-subsequences](https://github.com/gokul-rm/leetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/gokul-rm/leetCode/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0139-word-break](https://github.com/gokul-rm/leetCode/tree/main/0139-word-break/) | Medium |
 | [0344-reverse-string](https://github.com/gokul-rm/leetCode/tree/main/0344-reverse-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/gokul-rm/leetCode/tree/main/0409-longest-palindrome/) | Easy |
 | [0443-string-compression](https://github.com/gokul-rm/leetCode/tree/main/0443-string-compression/) | Medium |
@@ -323,6 +326,7 @@ You can customize it further based on the specific details of your repository, s
 | ------- | ------- |
 | [0115-distinct-subsequences](https://github.com/gokul-rm/leetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/gokul-rm/leetCode/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0139-word-break](https://github.com/gokul-rm/leetCode/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/gokul-rm/leetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/gokul-rm/leetCode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/gokul-rm/leetCode/tree/main/0213-house-robber-ii/) | Medium |
@@ -444,4 +448,12 @@ You can customize it further based on the specific details of your repository, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/gokul-rm/leetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/gokul-rm/leetCode/tree/main/0139-word-break/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/gokul-rm/leetCode/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
