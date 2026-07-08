@@ -155,6 +155,7 @@ You can customize it further based on the specific details of your repository, s
 | [0115-distinct-subsequences](https://github.com/gokul-rm/leetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/gokul-rm/leetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/gokul-rm/leetCode/tree/main/0139-word-break/) | Medium |
+| [0171-excel-sheet-column-number](https://github.com/gokul-rm/leetCode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0344-reverse-string](https://github.com/gokul-rm/leetCode/tree/main/0344-reverse-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/gokul-rm/leetCode/tree/main/0409-longest-palindrome/) | Easy |
 | [0443-string-compression](https://github.com/gokul-rm/leetCode/tree/main/0443-string-compression/) | Medium |
@@ -298,6 +299,7 @@ You can customize it further based on the specific details of your repository, s
 | [0002-add-two-numbers](https://github.com/gokul-rm/leetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0060-permutation-sequence](https://github.com/gokul-rm/leetCode/tree/main/0060-permutation-sequence/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gokul-rm/leetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0171-excel-sheet-column-number](https://github.com/gokul-rm/leetCode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/gokul-rm/leetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1822-sign-of-the-product-of-an-array](https://github.com/gokul-rm/leetCode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/gokul-rm/leetCode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
