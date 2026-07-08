@@ -145,6 +145,7 @@ You can customize it further based on the specific details of your repository, s
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gokul-rm/leetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/gokul-rm/leetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/gokul-rm/leetCode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
+| [3945-digit-frequency-score](https://github.com/gokul-rm/leetCode/tree/main/3945-digit-frequency-score/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -314,6 +315,7 @@ You can customize it further based on the specific details of your repository, s
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/gokul-rm/leetCode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/gokul-rm/leetCode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3895-count-digit-appearances](https://github.com/gokul-rm/leetCode/tree/main/3895-count-digit-appearances/) | Medium |
+| [3945-digit-frequency-score](https://github.com/gokul-rm/leetCode/tree/main/3945-digit-frequency-score/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
