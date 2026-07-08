@@ -110,6 +110,7 @@ You can customize it further based on the specific details of your repository, s
 | [1288-remove-covered-intervals](https://github.com/gokul-rm/leetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gokul-rm/leetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/gokul-rm/leetCode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/gokul-rm/leetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/gokul-rm/leetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/gokul-rm/leetCode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1822-sign-of-the-product-of-an-array](https://github.com/gokul-rm/leetCode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
@@ -193,6 +194,7 @@ You can customize it further based on the specific details of your repository, s
 | [0905-sort-array-by-parity](https://github.com/gokul-rm/leetCode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/gokul-rm/leetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gokul-rm/leetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/gokul-rm/leetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/gokul-rm/leetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2974-minimum-number-game](https://github.com/gokul-rm/leetCode/tree/main/2974-minimum-number-game/) | Easy |
 ## Stack
@@ -312,6 +314,7 @@ You can customize it further based on the specific details of your repository, s
 | [0150-evaluate-reverse-polish-notation](https://github.com/gokul-rm/leetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/gokul-rm/leetCode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/gokul-rm/leetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/gokul-rm/leetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1822-sign-of-the-product-of-an-array](https://github.com/gokul-rm/leetCode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/gokul-rm/leetCode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2652-sum-multiples](https://github.com/gokul-rm/leetCode/tree/main/2652-sum-multiples/) | Easy |
@@ -340,6 +343,7 @@ You can customize it further based on the specific details of your repository, s
 | [0435-non-overlapping-intervals](https://github.com/gokul-rm/leetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/gokul-rm/leetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/gokul-rm/leetCode/tree/main/0561-array-partition/) | Easy |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/gokul-rm/leetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/gokul-rm/leetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -499,4 +503,8 @@ You can customize it further based on the specific details of your repository, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/gokul-rm/leetCode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/gokul-rm/leetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 <!---LeetCode Topics End-->
