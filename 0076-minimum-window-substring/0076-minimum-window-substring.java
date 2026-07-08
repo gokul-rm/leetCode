@@ -3,7 +3,6 @@ class Solution {
 
         int[] map = new int[128];
 
-        // Store frequency of characters in t
         for (char c : t.toCharArray()) {
             map[c]++;
         }
