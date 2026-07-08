@@ -1,31 +1,16 @@
 class Solution {
-
-    HashMap<String, Boolean> map = new HashMap<>();
-
     public boolean wordBreak(String s, List<String> wordDict) {
-
-        if (s.length() == 0) return true;
-
-        if (map.containsKey(s)) return map.get(s);
-
-        StringBuilder sb = new StringBuilder();
-
-        for (int i = 0; i < s.length(); i++) {
-            sb.append(s.charAt(i));
-
-            if (wordDict.contains(sb.toString())) {
-                String remaining = s.substring(i + 1);
-
-                boolean found = wordBreak(remaining, wordDict);
-
-                if (found) {
-                    map.put(s, true);
-                    return true;
+        int n = s.length();
+        Set<String> wordSet = new HashSet<>(wordDict);
+        boolean[] dp = new boolean[n + 1];
+        dp[0] = true;
+        for (int i = 1; i <= n; i++) {
+            for (int j = 0; j < i; j++) {
+                if (dp[j] && wordSet.contains(s.substring(j, i))) {
+                    dp[i] = true;
                 }
             }
         }
-
-        map.put(s, false);
-        return false;
+        return dp[n];
     }
 }
