@@ -94,6 +94,7 @@ You can customize it further based on the specific details of your repository, s
 | [0287-find-the-duplicate-number](https://github.com/gokul-rm/leetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/gokul-rm/leetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0322-coin-change](https://github.com/gokul-rm/leetCode/tree/main/0322-coin-change/) | Medium |
+| [0413-arithmetic-slices](https://github.com/gokul-rm/leetCode/tree/main/0413-arithmetic-slices/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/gokul-rm/leetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gokul-rm/leetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0455-assign-cookies](https://github.com/gokul-rm/leetCode/tree/main/0455-assign-cookies/) | Easy |
@@ -362,6 +363,7 @@ You can customize it further based on the specific details of your repository, s
 | [0198-house-robber](https://github.com/gokul-rm/leetCode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/gokul-rm/leetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0322-coin-change](https://github.com/gokul-rm/leetCode/tree/main/0322-coin-change/) | Medium |
+| [0413-arithmetic-slices](https://github.com/gokul-rm/leetCode/tree/main/0413-arithmetic-slices/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/gokul-rm/leetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0494-target-sum](https://github.com/gokul-rm/leetCode/tree/main/0494-target-sum/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/gokul-rm/leetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -392,6 +394,7 @@ You can customize it further based on the specific details of your repository, s
 | [0076-minimum-window-substring](https://github.com/gokul-rm/leetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/gokul-rm/leetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/gokul-rm/leetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0413-arithmetic-slices](https://github.com/gokul-rm/leetCode/tree/main/0413-arithmetic-slices/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/gokul-rm/leetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/gokul-rm/leetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Prefix Sum
