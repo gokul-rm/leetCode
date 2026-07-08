@@ -124,6 +124,7 @@ You can customize it further based on the specific details of your repository, s
 | [2974-minimum-number-game](https://github.com/gokul-rm/leetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/gokul-rm/leetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3895-count-digit-appearances](https://github.com/gokul-rm/leetCode/tree/main/3895-count-digit-appearances/) | Medium |
+| [3898-find-the-degree-of-each-vertex](https://github.com/gokul-rm/leetCode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -147,6 +148,7 @@ You can customize it further based on the specific details of your repository, s
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/gokul-rm/leetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/gokul-rm/leetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3898-find-the-degree-of-each-vertex](https://github.com/gokul-rm/leetCode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -467,6 +469,7 @@ You can customize it further based on the specific details of your repository, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/gokul-rm/leetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [3898-find-the-degree-of-each-vertex](https://github.com/gokul-rm/leetCode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
