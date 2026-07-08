@@ -127,6 +127,7 @@ You can customize it further based on the specific details of your repository, s
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/gokul-rm/leetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/gokul-rm/leetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0076-minimum-window-substring](https://github.com/gokul-rm/leetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/gokul-rm/leetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0139-word-break](https://github.com/gokul-rm/leetCode/tree/main/0139-word-break/) | Medium |
 | [0409-longest-palindrome](https://github.com/gokul-rm/leetCode/tree/main/0409-longest-palindrome/) | Easy |
@@ -148,6 +149,7 @@ You can customize it further based on the specific details of your repository, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/gokul-rm/leetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0076-minimum-window-substring](https://github.com/gokul-rm/leetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0115-distinct-subsequences](https://github.com/gokul-rm/leetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/gokul-rm/leetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/gokul-rm/leetCode/tree/main/0139-word-break/) | Medium |
@@ -361,6 +363,7 @@ You can customize it further based on the specific details of your repository, s
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/gokul-rm/leetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/gokul-rm/leetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/gokul-rm/leetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0643-maximum-average-subarray-i](https://github.com/gokul-rm/leetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
