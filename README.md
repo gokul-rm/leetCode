@@ -111,6 +111,7 @@ You can customize it further based on the specific details of your repository, s
 | [1732-find-the-highest-altitude](https://github.com/gokul-rm/leetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/gokul-rm/leetCode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/gokul-rm/leetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1856-maximum-subarray-min-product](https://github.com/gokul-rm/leetCode/tree/main/1856-maximum-subarray-min-product/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/gokul-rm/leetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/gokul-rm/leetCode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/gokul-rm/leetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -194,6 +195,7 @@ You can customize it further based on the specific details of your repository, s
 | [0503-next-greater-element-ii](https://github.com/gokul-rm/leetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/gokul-rm/leetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/gokul-rm/leetCode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
+| [1856-maximum-subarray-min-product](https://github.com/gokul-rm/leetCode/tree/main/1856-maximum-subarray-min-product/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/gokul-rm/leetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -202,6 +204,7 @@ You can customize it further based on the specific details of your repository, s
 | [0496-next-greater-element-i](https://github.com/gokul-rm/leetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/gokul-rm/leetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/gokul-rm/leetCode/tree/main/0739-daily-temperatures/) | Medium |
+| [1856-maximum-subarray-min-product](https://github.com/gokul-rm/leetCode/tree/main/1856-maximum-subarray-min-product/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -367,6 +370,7 @@ You can customize it further based on the specific details of your repository, s
 | [0209-minimum-size-subarray-sum](https://github.com/gokul-rm/leetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/gokul-rm/leetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/gokul-rm/leetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1856-maximum-subarray-min-product](https://github.com/gokul-rm/leetCode/tree/main/1856-maximum-subarray-min-product/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/gokul-rm/leetCode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Design
 | Problem Name | Difficulty |
