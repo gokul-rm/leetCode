@@ -121,6 +121,7 @@ You can customize it further based on the specific details of your repository, s
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/gokul-rm/leetCode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/gokul-rm/leetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gokul-rm/leetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2221-find-triangular-sum-of-an-array](https://github.com/gokul-rm/leetCode/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/gokul-rm/leetCode/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/gokul-rm/leetCode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/gokul-rm/leetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -266,6 +267,7 @@ You can customize it further based on the specific details of your repository, s
 | [2073-time-needed-to-buy-tickets](https://github.com/gokul-rm/leetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gokul-rm/leetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/gokul-rm/leetCode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
+| [2221-find-triangular-sum-of-an-array](https://github.com/gokul-rm/leetCode/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/gokul-rm/leetCode/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2974-minimum-number-game](https://github.com/gokul-rm/leetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3271-hash-divided-string](https://github.com/gokul-rm/leetCode/tree/main/3271-hash-divided-string/) | Medium |
@@ -349,6 +351,7 @@ You can customize it further based on the specific details of your repository, s
 | [1344-angle-between-hands-of-a-clock](https://github.com/gokul-rm/leetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/gokul-rm/leetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1822-sign-of-the-product-of-an-array](https://github.com/gokul-rm/leetCode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
+| [2221-find-triangular-sum-of-an-array](https://github.com/gokul-rm/leetCode/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/gokul-rm/leetCode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2652-sum-multiples](https://github.com/gokul-rm/leetCode/tree/main/2652-sum-multiples/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/gokul-rm/leetCode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
@@ -546,6 +549,7 @@ You can customize it further based on the specific details of your repository, s
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/gokul-rm/leetCode/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/gokul-rm/leetCode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
@@ -555,4 +559,8 @@ You can customize it further based on the specific details of your repository, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/gokul-rm/leetCode/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/gokul-rm/leetCode/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 <!---LeetCode Topics End-->
