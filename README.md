@@ -274,6 +274,7 @@ You can customize it further based on the specific details of your repository, s
 | [0445-add-two-numbers-ii](https://github.com/gokul-rm/leetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/gokul-rm/leetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1669-merge-in-between-linked-lists](https://github.com/gokul-rm/leetCode/tree/main/1669-merge-in-between-linked-lists/) | Medium |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/gokul-rm/leetCode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/gokul-rm/leetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/gokul-rm/leetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/gokul-rm/leetCode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
@@ -295,6 +296,7 @@ You can customize it further based on the specific details of your repository, s
 | [0455-assign-cookies](https://github.com/gokul-rm/leetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/gokul-rm/leetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/gokul-rm/leetCode/tree/main/0905-sort-array-by-parity/) | Easy |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/gokul-rm/leetCode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/gokul-rm/leetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/gokul-rm/leetCode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/gokul-rm/leetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
