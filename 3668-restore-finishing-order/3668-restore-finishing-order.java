@@ -8,7 +8,7 @@ class Solution {
         int idx = 0;
 
         for(int num : order){
-            if(!set.add(num))friends[idx++] = num;
+            if(set.contains(num))friends[idx++] = num;
         }
         return friends;
     }
