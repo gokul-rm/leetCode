@@ -1,21 +1,33 @@
 class Solution {
-    private boolean isPrefixAndSuffix(String str1, String str2) {
-        int n1 = str1.length(), n2 = str2.length();
-        if (n1 > n2) {
+    
+    public boolean isPreAndSuff(String word1, String word2) {
+        
+        if(word2.length() < word1.length())
             return false;
+        
+        int k = word1.length();
+        int ind = word2.length() - k;
+        for(int i=0 ; i<k ; i++)
+        {
+            if(word1.charAt(i) != word2.charAt(i) || word1.charAt(i) != word2.charAt(ind++))
+                return false;
         }
-        return str2.substring(0, n1).equals(str1) && str2.substring(n2 - n1).equals(str1);
-    }
+        
+        return true;
+    } 
 
     public int countPrefixSuffixPairs(String[] words) {
+        
         int n = words.length, count = 0;
-        for (int i = 0; i < n; ++i) {
-            for (int j = i + 1; j < n; ++j) {
-                if (isPrefixAndSuffix(words[i], words[j])) {
+        for(int i=0 ; i<n ; i++)
+        {
+            for(int j=i+1 ; j<n ; j++)
+            {
+                if(isPreAndSuff(words[i], words[j]))
                     count++;
-                }
             }
         }
+        
         return count;
     }
 }
