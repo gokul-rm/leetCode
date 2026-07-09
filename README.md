@@ -273,6 +273,7 @@ You can customize it further based on the specific details of your repository, s
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/gokul-rm/leetCode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/gokul-rm/leetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/gokul-rm/leetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1669-merge-in-between-linked-lists](https://github.com/gokul-rm/leetCode/tree/main/1669-merge-in-between-linked-lists/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/gokul-rm/leetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/gokul-rm/leetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/gokul-rm/leetCode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
