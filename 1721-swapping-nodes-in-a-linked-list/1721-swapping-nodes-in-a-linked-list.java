@@ -8,37 +8,23 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-class Solution 
-{
-    public ListNode swapNodes(ListNode head, int k) 
-    {
-        ListNode temp=head;
-        int cnt=0;
-        while(temp !=null)
-        {
-            cnt++;
-            temp=temp.next;
+class Solution {
+    public ListNode swapNodes(ListNode head, int k) {
+        ListNode slow = head;
+        ListNode fast= head;
+        ListNode first= head;
+        for(int i=1; i<k ; i++){
+            fast= fast.next;
         }
-        int[] arr=new int[cnt];
-        int i=0;
-        while(head != null)
-        {
-            arr[i++]=head.val;
-            head=head.next;
+        first=fast;
+        while(fast.next != null){
+            slow= slow.next;
+            fast= fast.next;
         }
-        int aa=arr[k-1];
-        arr[k-1]=arr[cnt-k];
-        arr[cnt-k]=aa;
-        ListNode dum=new ListNode(0);
-        ListNode hh=dum;
-        int x=0;
-        while(x<cnt)
-        {
-            ListNode node=new ListNode(arr[x]);
-            dum.next=node;
-            dum=dum.next;
-            x++;
-        }
-        return hh.next;
+        
+        int temp= first.val;
+        first.val= slow.val;
+        slow.val= temp;
+        return head;
     }
 }
