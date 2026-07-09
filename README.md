@@ -219,6 +219,7 @@ You can customize it further based on the specific details of your repository, s
 | [1441-build-an-array-with-stack-operations](https://github.com/gokul-rm/leetCode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1856-maximum-subarray-min-product](https://github.com/gokul-rm/leetCode/tree/main/1856-maximum-subarray-min-product/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/gokul-rm/leetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/gokul-rm/leetCode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/gokul-rm/leetCode/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -228,6 +229,7 @@ You can customize it further based on the specific details of your repository, s
 | [0503-next-greater-element-ii](https://github.com/gokul-rm/leetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/gokul-rm/leetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [1856-maximum-subarray-min-product](https://github.com/gokul-rm/leetCode/tree/main/1856-maximum-subarray-min-product/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/gokul-rm/leetCode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -281,6 +283,7 @@ You can customize it further based on the specific details of your repository, s
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/gokul-rm/leetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/gokul-rm/leetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/gokul-rm/leetCode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/gokul-rm/leetCode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/gokul-rm/leetCode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/gokul-rm/leetCode/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/gokul-rm/leetCode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
@@ -396,6 +399,7 @@ You can customize it further based on the specific details of your repository, s
 | [0060-permutation-sequence](https://github.com/gokul-rm/leetCode/tree/main/0060-permutation-sequence/) | Hard |
 | [0143-reorder-list](https://github.com/gokul-rm/leetCode/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/gokul-rm/leetCode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [2487-remove-nodes-from-linked-list](https://github.com/gokul-rm/leetCode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
