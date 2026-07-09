@@ -128,6 +128,7 @@ You can customize it further based on the specific details of your repository, s
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/gokul-rm/leetCode/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/gokul-rm/leetCode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/gokul-rm/leetCode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3701-compute-alternating-sum](https://github.com/gokul-rm/leetCode/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/gokul-rm/leetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3895-count-digit-appearances](https://github.com/gokul-rm/leetCode/tree/main/3895-count-digit-appearances/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/gokul-rm/leetCode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
@@ -264,6 +265,7 @@ You can customize it further based on the specific details of your repository, s
 | [2974-minimum-number-game](https://github.com/gokul-rm/leetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/gokul-rm/leetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/gokul-rm/leetCode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
+| [3701-compute-alternating-sum](https://github.com/gokul-rm/leetCode/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/gokul-rm/leetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/gokul-rm/leetCode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Linked List
