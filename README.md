@@ -264,6 +264,7 @@ You can customize it further based on the specific details of your repository, s
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gokul-rm/leetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/gokul-rm/leetCode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0061-rotate-list](https://github.com/gokul-rm/leetCode/tree/main/0061-rotate-list/) | Medium |
+| [0086-partition-list](https://github.com/gokul-rm/leetCode/tree/main/0086-partition-list/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/gokul-rm/leetCode/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0143-reorder-list](https://github.com/gokul-rm/leetCode/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/gokul-rm/leetCode/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -282,6 +283,7 @@ You can customize it further based on the specific details of your repository, s
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gokul-rm/leetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/gokul-rm/leetCode/tree/main/0027-remove-element/) | Easy |
 | [0061-rotate-list](https://github.com/gokul-rm/leetCode/tree/main/0061-rotate-list/) | Medium |
+| [0086-partition-list](https://github.com/gokul-rm/leetCode/tree/main/0086-partition-list/) | Medium |
 | [0143-reorder-list](https://github.com/gokul-rm/leetCode/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/gokul-rm/leetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/gokul-rm/leetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
