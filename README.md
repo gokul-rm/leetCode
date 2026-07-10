@@ -127,6 +127,7 @@ You can customize it further based on the specific details of your repository, s
 | [2161-partition-array-according-to-given-pivot](https://github.com/gokul-rm/leetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/gokul-rm/leetCode/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/gokul-rm/leetCode/tree/main/2460-apply-operations-to-an-array/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/gokul-rm/leetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/gokul-rm/leetCode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/gokul-rm/leetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2942-find-words-containing-character](https://github.com/gokul-rm/leetCode/tree/main/2942-find-words-containing-character/) | Easy |
@@ -475,6 +476,7 @@ You can customize it further based on the specific details of your repository, s
 | [1732-find-the-highest-altitude](https://github.com/gokul-rm/leetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/gokul-rm/leetCode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1856-maximum-subarray-min-product](https://github.com/gokul-rm/leetCode/tree/main/1856-maximum-subarray-min-product/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/gokul-rm/leetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3699-number-of-zigzag-arrays-i](https://github.com/gokul-rm/leetCode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Design
 | Problem Name | Difficulty |
