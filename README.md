@@ -127,6 +127,7 @@ You can customize it further based on the specific details of your repository, s
 | [2460-apply-operations-to-an-array](https://github.com/gokul-rm/leetCode/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/gokul-rm/leetCode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/gokul-rm/leetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2942-find-words-containing-character](https://github.com/gokul-rm/leetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [2974-minimum-number-game](https://github.com/gokul-rm/leetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/gokul-rm/leetCode/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/gokul-rm/leetCode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
@@ -193,6 +194,7 @@ You can customize it further based on the specific details of your repository, s
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/gokul-rm/leetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/gokul-rm/leetCode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/gokul-rm/leetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2942-find-words-containing-character](https://github.com/gokul-rm/leetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/gokul-rm/leetCode/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 | [3110-score-of-a-string](https://github.com/gokul-rm/leetCode/tree/main/3110-score-of-a-string/) | Easy |
 | [3271-hash-divided-string](https://github.com/gokul-rm/leetCode/tree/main/3271-hash-divided-string/) | Medium |
