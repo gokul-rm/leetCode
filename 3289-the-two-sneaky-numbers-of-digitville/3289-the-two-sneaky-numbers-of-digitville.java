@@ -1,19 +1,13 @@
 class Solution {
     public int[] getSneakyNumbers(int[] nums) {
-        int[] dou = new int[2];
-        int[] res = new int[101];
-        int idx = 0;
-        
-        for (int num : nums) {
-            res[num]++;
+        int n = nums.length;
+        boolean[] a = new boolean[n];
+        int[] ar = new int[2];
+        int k = 0;
+        for(int i = 0;i<n;i++){
+            if(a[nums[i]]==true) ar[k++] = nums[i];
+            else a[nums[i]] = true;
         }
-        
-        for (int i = 0; i < res.length; i++) {
-            if (res[i] == 2) {
-                dou[idx++] = i;
-                if (idx == 2) break;
-            }
-        }
-        return dou;
+        return ar;
     }
 }
