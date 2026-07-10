@@ -361,6 +361,7 @@ You can customize it further based on the specific details of your repository, s
 | [2769-find-the-maximum-achievable-number](https://github.com/gokul-rm/leetCode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/gokul-rm/leetCode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/gokul-rm/leetCode/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/gokul-rm/leetCode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/gokul-rm/leetCode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/gokul-rm/leetCode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/gokul-rm/leetCode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
