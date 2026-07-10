@@ -3,7 +3,7 @@ class Solution {
         List<Integer> res = new ArrayList<>();
 
         for(int i=0; i<words.length;i++){
-            if(words[i].contains(x + "")) res.add(i);
+            if(words[i].indexOf(x)!=-1) res.add(i);
         }
         return res;
     }
