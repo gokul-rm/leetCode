@@ -111,6 +111,7 @@ You can customize it further based on the specific details of your repository, s
 | [1288-remove-covered-intervals](https://github.com/gokul-rm/leetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gokul-rm/leetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/gokul-rm/leetCode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
+| [1512-number-of-good-pairs](https://github.com/gokul-rm/leetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/gokul-rm/leetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/gokul-rm/leetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/gokul-rm/leetCode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
@@ -158,6 +159,7 @@ You can customize it further based on the specific details of your repository, s
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/gokul-rm/leetCode/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/gokul-rm/leetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gokul-rm/leetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/gokul-rm/leetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/gokul-rm/leetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/gokul-rm/leetCode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3668-restore-finishing-order](https://github.com/gokul-rm/leetCode/tree/main/3668-restore-finishing-order/) | Easy |
@@ -349,6 +351,7 @@ You can customize it further based on the specific details of your repository, s
 | [1189-maximum-number-of-balloons](https://github.com/gokul-rm/leetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/gokul-rm/leetCode/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gokul-rm/leetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/gokul-rm/leetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/gokul-rm/leetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -359,6 +362,7 @@ You can customize it further based on the specific details of your repository, s
 | [0171-excel-sheet-column-number](https://github.com/gokul-rm/leetCode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/gokul-rm/leetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/gokul-rm/leetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1512-number-of-good-pairs](https://github.com/gokul-rm/leetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/gokul-rm/leetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1822-sign-of-the-product-of-an-array](https://github.com/gokul-rm/leetCode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2221-find-triangular-sum-of-an-array](https://github.com/gokul-rm/leetCode/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
