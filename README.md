@@ -113,6 +113,7 @@ You can customize it further based on the specific details of your repository, s
 | [1441-build-an-array-with-stack-operations](https://github.com/gokul-rm/leetCode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/gokul-rm/leetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/gokul-rm/leetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
+| [1684-count-the-number-of-consistent-strings](https://github.com/gokul-rm/leetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/gokul-rm/leetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/gokul-rm/leetCode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1822-sign-of-the-product-of-an-array](https://github.com/gokul-rm/leetCode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
@@ -162,6 +163,7 @@ You can customize it further based on the specific details of your repository, s
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/gokul-rm/leetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gokul-rm/leetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/gokul-rm/leetCode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/gokul-rm/leetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/gokul-rm/leetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/gokul-rm/leetCode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/gokul-rm/leetCode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
@@ -195,6 +197,7 @@ You can customize it further based on the specific details of your repository, s
 | [1189-maximum-number-of-balloons](https://github.com/gokul-rm/leetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/gokul-rm/leetCode/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/gokul-rm/leetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1684-count-the-number-of-consistent-strings](https://github.com/gokul-rm/leetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/gokul-rm/leetCode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/gokul-rm/leetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/gokul-rm/leetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -348,6 +351,7 @@ You can customize it further based on the specific details of your repository, s
 | [0222-count-complete-tree-nodes](https://github.com/gokul-rm/leetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/gokul-rm/leetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0645-set-mismatch](https://github.com/gokul-rm/leetCode/tree/main/0645-set-mismatch/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/gokul-rm/leetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -356,6 +360,7 @@ You can customize it further based on the specific details of your repository, s
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/gokul-rm/leetCode/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gokul-rm/leetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/gokul-rm/leetCode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/gokul-rm/leetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/gokul-rm/leetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/gokul-rm/leetCode/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Math
