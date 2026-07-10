@@ -1,11 +1,13 @@
 class Solution {
     public int[] transformArray(int[] nums) {
-        int left = 0, right = nums.length-1, res[] = new int[nums.length];
-
+        int count = 0;
         for(int num : nums){
-            if(num%2 == 0) res[left++] = 0;
-            else res[right--] = 1;
+            if(num %2 == 0) count++;
         }
-        return res;
+        for(int i=0;i<nums.length;i++){
+            if(i<count) nums[i] = 0;
+            else nums[i]=1;
+        }
+        return nums;
     }
 }
