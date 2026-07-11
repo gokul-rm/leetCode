@@ -130,6 +130,7 @@ You can customize it further based on the specific details of your repository, s
 | [2161-partition-array-according-to-given-pivot](https://github.com/gokul-rm/leetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/gokul-rm/leetCode/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/gokul-rm/leetCode/tree/main/2460-apply-operations-to-an-array/) | Easy |
+| [2549-count-distinct-numbers-on-board](https://github.com/gokul-rm/leetCode/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/gokul-rm/leetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/gokul-rm/leetCode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/gokul-rm/leetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -171,6 +172,7 @@ You can customize it further based on the specific details of your repository, s
 | [1512-number-of-good-pairs](https://github.com/gokul-rm/leetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/gokul-rm/leetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/gokul-rm/leetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [2549-count-distinct-numbers-on-board](https://github.com/gokul-rm/leetCode/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/gokul-rm/leetCode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/gokul-rm/leetCode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3668-restore-finishing-order](https://github.com/gokul-rm/leetCode/tree/main/3668-restore-finishing-order/) | Easy |
@@ -298,6 +300,7 @@ You can customize it further based on the specific details of your repository, s
 | [2181-merge-nodes-in-between-zeros](https://github.com/gokul-rm/leetCode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/gokul-rm/leetCode/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/gokul-rm/leetCode/tree/main/2460-apply-operations-to-an-array/) | Easy |
+| [2549-count-distinct-numbers-on-board](https://github.com/gokul-rm/leetCode/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2974-minimum-number-game](https://github.com/gokul-rm/leetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3271-hash-divided-string](https://github.com/gokul-rm/leetCode/tree/main/3271-hash-divided-string/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/gokul-rm/leetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -393,6 +396,7 @@ You can customize it further based on the specific details of your repository, s
 | [2235-add-two-integers](https://github.com/gokul-rm/leetCode/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/gokul-rm/leetCode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/gokul-rm/leetCode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
+| [2549-count-distinct-numbers-on-board](https://github.com/gokul-rm/leetCode/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2652-sum-multiples](https://github.com/gokul-rm/leetCode/tree/main/2652-sum-multiples/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/gokul-rm/leetCode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/gokul-rm/leetCode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
