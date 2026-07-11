@@ -10,6 +10,6 @@ class Solution {
             }
             res = Math.min(res,sum);
         }
-        return res == Integer.MAX_VALUE ? 0 : res;
+        return res;
     }
 }
