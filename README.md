@@ -130,6 +130,7 @@ You can customize it further based on the specific details of your repository, s
 | [2149-rearrange-array-elements-by-sign](https://github.com/gokul-rm/leetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/gokul-rm/leetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/gokul-rm/leetCode/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/gokul-rm/leetCode/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/gokul-rm/leetCode/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/gokul-rm/leetCode/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/gokul-rm/leetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -373,6 +374,7 @@ You can customize it further based on the specific details of your repository, s
 | [0645-set-mismatch](https://github.com/gokul-rm/leetCode/tree/main/0645-set-mismatch/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/gokul-rm/leetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/gokul-rm/leetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/gokul-rm/leetCode/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
