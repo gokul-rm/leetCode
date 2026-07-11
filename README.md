@@ -401,6 +401,7 @@ You can customize it further based on the specific details of your repository, s
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/gokul-rm/leetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/gokul-rm/leetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/gokul-rm/leetCode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1551-minimum-operations-to-make-array-equal](https://github.com/gokul-rm/leetCode/tree/main/1551-minimum-operations-to-make-array-equal/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/gokul-rm/leetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1688-count-of-matches-in-tournament](https://github.com/gokul-rm/leetCode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/gokul-rm/leetCode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
