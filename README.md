@@ -644,4 +644,8 @@ You can customize it further based on the specific details of your repository, s
 | ------- | ------- |
 | [1641-count-sorted-vowel-strings](https://github.com/gokul-rm/leetCode/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/gokul-rm/leetCode/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1291-sequential-digits](https://github.com/gokul-rm/leetCode/tree/main/1291-sequential-digits/) | Medium |
 <!---LeetCode Topics End-->
