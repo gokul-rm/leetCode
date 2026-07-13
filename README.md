@@ -143,6 +143,7 @@ You can customize it further based on the specific details of your repository, s
 | [2942-find-words-containing-character](https://github.com/gokul-rm/leetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [2974-minimum-number-game](https://github.com/gokul-rm/leetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/gokul-rm/leetCode/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
+| [3151-special-array-i](https://github.com/gokul-rm/leetCode/tree/main/3151-special-array-i/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/gokul-rm/leetCode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/gokul-rm/leetCode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/gokul-rm/leetCode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
