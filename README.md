@@ -108,6 +108,7 @@ You can customize it further based on the specific details of your repository, s
 | [0643-maximum-average-subarray-i](https://github.com/gokul-rm/leetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0645-set-mismatch](https://github.com/gokul-rm/leetCode/tree/main/0645-set-mismatch/) | Easy |
 | [0739-daily-temperatures](https://github.com/gokul-rm/leetCode/tree/main/0739-daily-temperatures/) | Medium |
+| [0821-shortest-distance-to-a-character](https://github.com/gokul-rm/leetCode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/gokul-rm/leetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/gokul-rm/leetCode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/gokul-rm/leetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -216,6 +217,7 @@ You can customize it further based on the specific details of your repository, s
 | [0657-robot-return-to-origin](https://github.com/gokul-rm/leetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0709-to-lower-case](https://github.com/gokul-rm/leetCode/tree/main/0709-to-lower-case/) | Easy |
 | [0771-jewels-and-stones](https://github.com/gokul-rm/leetCode/tree/main/0771-jewels-and-stones/) | Easy |
+| [0821-shortest-distance-to-a-character](https://github.com/gokul-rm/leetCode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/gokul-rm/leetCode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/gokul-rm/leetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/gokul-rm/leetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -372,6 +374,7 @@ You can customize it further based on the specific details of your repository, s
 | [0350-intersection-of-two-arrays-ii](https://github.com/gokul-rm/leetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0443-string-compression](https://github.com/gokul-rm/leetCode/tree/main/0443-string-compression/) | Medium |
 | [0455-assign-cookies](https://github.com/gokul-rm/leetCode/tree/main/0455-assign-cookies/) | Easy |
+| [0821-shortest-distance-to-a-character](https://github.com/gokul-rm/leetCode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/gokul-rm/leetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/gokul-rm/leetCode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/gokul-rm/leetCode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
