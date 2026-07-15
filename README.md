@@ -56,6 +56,7 @@ You can customize it further based on the specific details of your repository, s
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/gokul-rm/leetCode/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0183-customers-who-never-order](https://github.com/gokul-rm/leetCode/tree/main/0183-customers-who-never-order/) | Easy |
 | [0619-biggest-single-number](https://github.com/gokul-rm/leetCode/tree/main/0619-biggest-single-number/) | Easy |
 | [1211-queries-quality-and-percentage](https://github.com/gokul-rm/leetCode/tree/main/1211-queries-quality-and-percentage/) | Easy |
