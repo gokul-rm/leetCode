@@ -157,6 +157,7 @@ You can customize it further based on the specific details of your repository, s
 | [3668-restore-finishing-order](https://github.com/gokul-rm/leetCode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3683-earliest-time-to-finish-one-task](https://github.com/gokul-rm/leetCode/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/gokul-rm/leetCode/tree/main/3701-compute-alternating-sum/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/gokul-rm/leetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/gokul-rm/leetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3895-count-digit-appearances](https://github.com/gokul-rm/leetCode/tree/main/3895-count-digit-appearances/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/gokul-rm/leetCode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
@@ -190,6 +191,7 @@ You can customize it further based on the specific details of your repository, s
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/gokul-rm/leetCode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/gokul-rm/leetCode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3668-restore-finishing-order](https://github.com/gokul-rm/leetCode/tree/main/3668-restore-finishing-order/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/gokul-rm/leetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/gokul-rm/leetCode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3945-digit-frequency-score](https://github.com/gokul-rm/leetCode/tree/main/3945-digit-frequency-score/) | Easy |
 ## Matrix
