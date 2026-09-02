@@ -159,6 +159,7 @@ You can customize it further based on the specific details of your repository, s
 | [3701-compute-alternating-sum](https://github.com/gokul-rm/leetCode/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/gokul-rm/leetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/gokul-rm/leetCode/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/gokul-rm/leetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3895-count-digit-appearances](https://github.com/gokul-rm/leetCode/tree/main/3895-count-digit-appearances/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/gokul-rm/leetCode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/gokul-rm/leetCode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
@@ -451,6 +452,7 @@ You can customize it further based on the specific details of your repository, s
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/gokul-rm/leetCode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/gokul-rm/leetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/gokul-rm/leetCode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/gokul-rm/leetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3895-count-digit-appearances](https://github.com/gokul-rm/leetCode/tree/main/3895-count-digit-appearances/) | Medium |
 | [3945-digit-frequency-score](https://github.com/gokul-rm/leetCode/tree/main/3945-digit-frequency-score/) | Easy |
 ## Backtracking
