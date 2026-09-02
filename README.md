@@ -88,6 +88,7 @@ You can customize it further based on the specific details of your repository, s
 | [0139-word-break](https://github.com/gokul-rm/leetCode/tree/main/0139-word-break/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gokul-rm/leetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/gokul-rm/leetCode/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0174-dungeon-game](https://github.com/gokul-rm/leetCode/tree/main/0174-dungeon-game/) | Hard |
 | [0179-largest-number](https://github.com/gokul-rm/leetCode/tree/main/0179-largest-number/) | Medium |
 | [0198-house-robber](https://github.com/gokul-rm/leetCode/tree/main/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/gokul-rm/leetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -199,6 +200,7 @@ You can customize it further based on the specific details of your repository, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/gokul-rm/leetCode/tree/main/0036-valid-sudoku/) | Medium |
+| [0174-dungeon-game](https://github.com/gokul-rm/leetCode/tree/main/0174-dungeon-game/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/gokul-rm/leetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/gokul-rm/leetCode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## String
@@ -499,6 +501,7 @@ You can customize it further based on the specific details of your repository, s
 | [0131-palindrome-partitioning](https://github.com/gokul-rm/leetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/gokul-rm/leetCode/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/gokul-rm/leetCode/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0174-dungeon-game](https://github.com/gokul-rm/leetCode/tree/main/0174-dungeon-game/) | Hard |
 | [0198-house-robber](https://github.com/gokul-rm/leetCode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/gokul-rm/leetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0322-coin-change](https://github.com/gokul-rm/leetCode/tree/main/0322-coin-change/) | Medium |
