@@ -79,6 +79,7 @@ You can customize it further based on the specific details of your repository, s
 | [0051-n-queens](https://github.com/gokul-rm/leetCode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/gokul-rm/leetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/gokul-rm/leetCode/tree/main/0056-merge-intervals/) | Medium |
+| [0064-minimum-path-sum](https://github.com/gokul-rm/leetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0078-subsets](https://github.com/gokul-rm/leetCode/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/gokul-rm/leetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0090-subsets-ii](https://github.com/gokul-rm/leetCode/tree/main/0090-subsets-ii/) | Medium |
@@ -202,6 +203,7 @@ You can customize it further based on the specific details of your repository, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/gokul-rm/leetCode/tree/main/0036-valid-sudoku/) | Medium |
+| [0064-minimum-path-sum](https://github.com/gokul-rm/leetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0174-dungeon-game](https://github.com/gokul-rm/leetCode/tree/main/0174-dungeon-game/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/gokul-rm/leetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/gokul-rm/leetCode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
@@ -500,6 +502,7 @@ You can customize it further based on the specific details of your repository, s
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/gokul-rm/leetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0053-maximum-subarray](https://github.com/gokul-rm/leetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0064-minimum-path-sum](https://github.com/gokul-rm/leetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0115-distinct-subsequences](https://github.com/gokul-rm/leetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/gokul-rm/leetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/gokul-rm/leetCode/tree/main/0139-word-break/) | Medium |
