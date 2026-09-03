@@ -114,6 +114,7 @@ You can customize it further based on the specific details of your repository, s
 | [0852-peak-index-in-a-mountain-array](https://github.com/gokul-rm/leetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/gokul-rm/leetCode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/gokul-rm/leetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [1049-last-stone-weight-ii](https://github.com/gokul-rm/leetCode/tree/main/1049-last-stone-weight-ii/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/gokul-rm/leetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/gokul-rm/leetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gokul-rm/leetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -511,6 +512,7 @@ You can customize it further based on the specific details of your repository, s
 | [0435-non-overlapping-intervals](https://github.com/gokul-rm/leetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0494-target-sum](https://github.com/gokul-rm/leetCode/tree/main/0494-target-sum/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/gokul-rm/leetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [1049-last-stone-weight-ii](https://github.com/gokul-rm/leetCode/tree/main/1049-last-stone-weight-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/gokul-rm/leetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1641-count-sorted-vowel-strings](https://github.com/gokul-rm/leetCode/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/gokul-rm/leetCode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
@@ -684,4 +686,12 @@ You can customize it further based on the specific details of your repository, s
 | [1291-sequential-digits](https://github.com/gokul-rm/leetCode/tree/main/1291-sequential-digits/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gokul-rm/leetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/gokul-rm/leetCode/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1049-last-stone-weight-ii](https://github.com/gokul-rm/leetCode/tree/main/1049-last-stone-weight-ii/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1049-last-stone-weight-ii](https://github.com/gokul-rm/leetCode/tree/main/1049-last-stone-weight-ii/) | Medium |
 <!---LeetCode Topics End-->
