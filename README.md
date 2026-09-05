@@ -167,6 +167,7 @@ You can customize it further based on the specific details of your repository, s
 | [3895-count-digit-appearances](https://github.com/gokul-rm/leetCode/tree/main/3895-count-digit-appearances/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/gokul-rm/leetCode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/gokul-rm/leetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/gokul-rm/leetCode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3925-concatenate-array-with-reverse](https://github.com/gokul-rm/leetCode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -567,6 +568,7 @@ You can customize it further based on the specific details of your repository, s
 | [2574-left-and-right-sum-differences](https://github.com/gokul-rm/leetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3699-number-of-zigzag-arrays-i](https://github.com/gokul-rm/leetCode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/gokul-rm/leetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/gokul-rm/leetCode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
