@@ -230,6 +230,7 @@ You can customize it further based on the specific details of your repository, s
 | [0709-to-lower-case](https://github.com/gokul-rm/leetCode/tree/main/0709-to-lower-case/) | Easy |
 | [0771-jewels-and-stones](https://github.com/gokul-rm/leetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/gokul-rm/leetCode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
+| [0940-distinct-subsequences-ii](https://github.com/gokul-rm/leetCode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1108-defanging-an-ip-address](https://github.com/gokul-rm/leetCode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/gokul-rm/leetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/gokul-rm/leetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -519,6 +520,7 @@ You can customize it further based on the specific details of your repository, s
 | [0435-non-overlapping-intervals](https://github.com/gokul-rm/leetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0494-target-sum](https://github.com/gokul-rm/leetCode/tree/main/0494-target-sum/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/gokul-rm/leetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/gokul-rm/leetCode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1049-last-stone-weight-ii](https://github.com/gokul-rm/leetCode/tree/main/1049-last-stone-weight-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/gokul-rm/leetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1641-count-sorted-vowel-strings](https://github.com/gokul-rm/leetCode/tree/main/1641-count-sorted-vowel-strings/) | Medium |
