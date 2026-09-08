@@ -75,6 +75,7 @@ You can customize it further based on the specific details of your repository, s
 | [0040-combination-sum-ii](https://github.com/gokul-rm/leetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/gokul-rm/leetCode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/gokul-rm/leetCode/tree/main/0047-permutations-ii/) | Medium |
+| [0048-rotate-image](https://github.com/gokul-rm/leetCode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/gokul-rm/leetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/gokul-rm/leetCode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/gokul-rm/leetCode/tree/main/0053-maximum-subarray/) | Medium |
@@ -205,6 +206,7 @@ You can customize it further based on the specific details of your repository, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/gokul-rm/leetCode/tree/main/0036-valid-sudoku/) | Medium |
+| [0048-rotate-image](https://github.com/gokul-rm/leetCode/tree/main/0048-rotate-image/) | Medium |
 | [0064-minimum-path-sum](https://github.com/gokul-rm/leetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0174-dungeon-game](https://github.com/gokul-rm/leetCode/tree/main/0174-dungeon-game/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/gokul-rm/leetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -431,6 +433,7 @@ You can customize it further based on the specific details of your repository, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/gokul-rm/leetCode/tree/main/0002-add-two-numbers/) | Medium |
+| [0048-rotate-image](https://github.com/gokul-rm/leetCode/tree/main/0048-rotate-image/) | Medium |
 | [0060-permutation-sequence](https://github.com/gokul-rm/leetCode/tree/main/0060-permutation-sequence/) | Hard |
 | [0062-unique-paths](https://github.com/gokul-rm/leetCode/tree/main/0062-unique-paths/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gokul-rm/leetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
