@@ -157,6 +157,7 @@ You can customize it further based on the specific details of your repository, s
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/gokul-rm/leetCode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/gokul-rm/leetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/gokul-rm/leetCode/tree/main/3467-transform-array-by-parity/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/gokul-rm/leetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/gokul-rm/leetCode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3668-restore-finishing-order](https://github.com/gokul-rm/leetCode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3683-earliest-time-to-finish-one-task](https://github.com/gokul-rm/leetCode/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
@@ -198,6 +199,7 @@ You can customize it further based on the specific details of your repository, s
 | [2549-count-distinct-numbers-on-board](https://github.com/gokul-rm/leetCode/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/gokul-rm/leetCode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/gokul-rm/leetCode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/gokul-rm/leetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3668-restore-finishing-order](https://github.com/gokul-rm/leetCode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/gokul-rm/leetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/gokul-rm/leetCode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
@@ -541,6 +543,7 @@ You can customize it further based on the specific details of your repository, s
 | [0143-reorder-list](https://github.com/gokul-rm/leetCode/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/gokul-rm/leetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [2487-remove-nodes-from-linked-list](https://github.com/gokul-rm/leetCode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/gokul-rm/leetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -705,6 +708,7 @@ You can customize it further based on the specific details of your repository, s
 | [1291-sequential-digits](https://github.com/gokul-rm/leetCode/tree/main/1291-sequential-digits/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gokul-rm/leetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/gokul-rm/leetCode/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/gokul-rm/leetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
