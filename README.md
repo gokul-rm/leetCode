@@ -101,6 +101,7 @@ You can customize it further based on the specific details of your repository, s
 | [0303-range-sum-query-immutable](https://github.com/gokul-rm/leetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0322-coin-change](https://github.com/gokul-rm/leetCode/tree/main/0322-coin-change/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gokul-rm/leetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0407-trapping-rain-water-ii](https://github.com/gokul-rm/leetCode/tree/main/0407-trapping-rain-water-ii/) | Hard |
 | [0413-arithmetic-slices](https://github.com/gokul-rm/leetCode/tree/main/0413-arithmetic-slices/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/gokul-rm/leetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gokul-rm/leetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -211,6 +212,7 @@ You can customize it further based on the specific details of your repository, s
 | [0048-rotate-image](https://github.com/gokul-rm/leetCode/tree/main/0048-rotate-image/) | Medium |
 | [0064-minimum-path-sum](https://github.com/gokul-rm/leetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0174-dungeon-game](https://github.com/gokul-rm/leetCode/tree/main/0174-dungeon-game/) | Hard |
+| [0407-trapping-rain-water-ii](https://github.com/gokul-rm/leetCode/tree/main/0407-trapping-rain-water-ii/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/gokul-rm/leetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/gokul-rm/leetCode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## String
@@ -323,6 +325,7 @@ You can customize it further based on the specific details of your repository, s
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/gokul-rm/leetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/gokul-rm/leetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0407-trapping-rain-water-ii](https://github.com/gokul-rm/leetCode/tree/main/0407-trapping-rain-water-ii/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/gokul-rm/leetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/gokul-rm/leetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2974-minimum-number-game](https://github.com/gokul-rm/leetCode/tree/main/2974-minimum-number-game/) | Easy |
@@ -612,6 +615,7 @@ You can customize it further based on the specific details of your repository, s
 | ------- | ------- |
 | [0112-path-sum](https://github.com/gokul-rm/leetCode/tree/main/0112-path-sum/) | Easy |
 | [0322-coin-change](https://github.com/gokul-rm/leetCode/tree/main/0322-coin-change/) | Medium |
+| [0407-trapping-rain-water-ii](https://github.com/gokul-rm/leetCode/tree/main/0407-trapping-rain-water-ii/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/gokul-rm/leetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/gokul-rm/leetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Binary Tree
