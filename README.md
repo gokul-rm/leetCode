@@ -219,6 +219,7 @@ You can customize it further based on the specific details of your repository, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/gokul-rm/leetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0010-regular-expression-matching](https://github.com/gokul-rm/leetCode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0049-group-anagrams](https://github.com/gokul-rm/leetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/gokul-rm/leetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0115-distinct-subsequences](https://github.com/gokul-rm/leetCode/tree/main/0115-distinct-subsequences/) | Hard |
@@ -516,6 +517,7 @@ You can customize it further based on the specific details of your repository, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/gokul-rm/leetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0010-regular-expression-matching](https://github.com/gokul-rm/leetCode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0053-maximum-subarray](https://github.com/gokul-rm/leetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/gokul-rm/leetCode/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/gokul-rm/leetCode/tree/main/0064-minimum-path-sum/) | Medium |
@@ -541,6 +543,7 @@ You can customize it further based on the specific details of your repository, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/gokul-rm/leetCode/tree/main/0002-add-two-numbers/) | Medium |
+| [0010-regular-expression-matching](https://github.com/gokul-rm/leetCode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0025-reverse-nodes-in-k-group](https://github.com/gokul-rm/leetCode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0060-permutation-sequence](https://github.com/gokul-rm/leetCode/tree/main/0060-permutation-sequence/) | Hard |
 | [0143-reorder-list](https://github.com/gokul-rm/leetCode/tree/main/0143-reorder-list/) | Medium |
