@@ -458,6 +458,7 @@ You can customize it further based on the specific details of your repository, s
 | [1551-minimum-operations-to-make-array-equal](https://github.com/gokul-rm/leetCode/tree/main/1551-minimum-operations-to-make-array-equal/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/gokul-rm/leetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/gokul-rm/leetCode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/gokul-rm/leetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1641-count-sorted-vowel-strings](https://github.com/gokul-rm/leetCode/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [1688-count-of-matches-in-tournament](https://github.com/gokul-rm/leetCode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/gokul-rm/leetCode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
@@ -544,6 +545,7 @@ You can customize it further based on the specific details of your repository, s
 | [0940-distinct-subsequences-ii](https://github.com/gokul-rm/leetCode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1049-last-stone-weight-ii](https://github.com/gokul-rm/leetCode/tree/main/1049-last-stone-weight-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/gokul-rm/leetCode/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/gokul-rm/leetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1641-count-sorted-vowel-strings](https://github.com/gokul-rm/leetCode/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/gokul-rm/leetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/gokul-rm/leetCode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
@@ -589,6 +591,7 @@ You can customize it further based on the specific details of your repository, s
 | [0303-range-sum-query-immutable](https://github.com/gokul-rm/leetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [1124-longest-well-performing-interval](https://github.com/gokul-rm/leetCode/tree/main/1124-longest-well-performing-interval/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/gokul-rm/leetCode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/gokul-rm/leetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/gokul-rm/leetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/gokul-rm/leetCode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1856-maximum-subarray-min-product](https://github.com/gokul-rm/leetCode/tree/main/1856-maximum-subarray-min-product/) | Medium |
@@ -715,6 +718,7 @@ You can customize it further based on the specific details of your repository, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/gokul-rm/leetCode/tree/main/0062-unique-paths/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/gokul-rm/leetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1641-count-sorted-vowel-strings](https://github.com/gokul-rm/leetCode/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gokul-rm/leetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2221-find-triangular-sum-of-an-array](https://github.com/gokul-rm/leetCode/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
