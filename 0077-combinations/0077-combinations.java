@@ -8,6 +8,7 @@ class Solution {
     void backTrack(int n, int k , int idx, List<Integer> list){
         if(list.size() == k){
             res.add(new ArrayList<>(list));
+            return;
         }
 
         for(int i = idx;i<=n;i++){
