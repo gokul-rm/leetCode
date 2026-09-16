@@ -11,9 +11,8 @@ class Solution {
         for(int idx = i;idx<nums.length;idx++){
             list.add(nums[idx]);
             backTrack(nums, idx+1,list);
-        }
-        if(!list.isEmpty())
         list.remove(list.size()-1);
+        }
     }
 
 
