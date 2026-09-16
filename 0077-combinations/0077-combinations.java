@@ -13,8 +13,8 @@ class Solution {
         for(int i = idx;i<=n;i++){
             list.add(i);
             backTrack(n,k,i+1,list);
-        }
-        if(!list.isEmpty())
+        
         list.remove(list.size()-1);
+        }
     }
 }
