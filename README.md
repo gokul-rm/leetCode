@@ -119,6 +119,7 @@ You can customize it further based on the specific details of your repository, s
 | [0739-daily-temperatures](https://github.com/gokul-rm/leetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0821-shortest-distance-to-a-character](https://github.com/gokul-rm/leetCode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/gokul-rm/leetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/gokul-rm/leetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/gokul-rm/leetCode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/gokul-rm/leetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/gokul-rm/leetCode/tree/main/1049-last-stone-weight-ii/) | Medium |
@@ -579,6 +580,7 @@ You can customize it further based on the specific details of your repository, s
 | [0350-intersection-of-two-arrays-ii](https://github.com/gokul-rm/leetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0704-binary-search](https://github.com/gokul-rm/leetCode/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/gokul-rm/leetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/gokul-rm/leetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/gokul-rm/leetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
