@@ -112,6 +112,7 @@ You can customize it further based on the specific details of your repository, s
 | [0561-array-partition](https://github.com/gokul-rm/leetCode/tree/main/0561-array-partition/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/gokul-rm/leetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0645-set-mismatch](https://github.com/gokul-rm/leetCode/tree/main/0645-set-mismatch/) | Easy |
+| [0704-binary-search](https://github.com/gokul-rm/leetCode/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/gokul-rm/leetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0821-shortest-distance-to-a-character](https://github.com/gokul-rm/leetCode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/gokul-rm/leetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -570,6 +571,7 @@ You can customize it further based on the specific details of your repository, s
 | [0278-first-bad-version](https://github.com/gokul-rm/leetCode/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/gokul-rm/leetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gokul-rm/leetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0704-binary-search](https://github.com/gokul-rm/leetCode/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/gokul-rm/leetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/gokul-rm/leetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Sliding Window
