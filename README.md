@@ -166,6 +166,7 @@ You can customize it further based on the specific details of your repository, s
 | [3467-transform-array-by-parity](https://github.com/gokul-rm/leetCode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/gokul-rm/leetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/gokul-rm/leetCode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gokul-rm/leetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3668-restore-finishing-order](https://github.com/gokul-rm/leetCode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3683-earliest-time-to-finish-one-task](https://github.com/gokul-rm/leetCode/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/gokul-rm/leetCode/tree/main/3701-compute-alternating-sum/) | Easy |
@@ -482,6 +483,7 @@ You can customize it further based on the specific details of your repository, s
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/gokul-rm/leetCode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/gokul-rm/leetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/gokul-rm/leetCode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gokul-rm/leetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/gokul-rm/leetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/gokul-rm/leetCode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3870-count-commas-in-range](https://github.com/gokul-rm/leetCode/tree/main/3870-count-commas-in-range/) | Easy |
