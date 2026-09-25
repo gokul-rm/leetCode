@@ -81,6 +81,7 @@ You can customize it further based on the specific details of your repository, s
 | [0049-group-anagrams](https://github.com/gokul-rm/leetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/gokul-rm/leetCode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/gokul-rm/leetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/gokul-rm/leetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/gokul-rm/leetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0064-minimum-path-sum](https://github.com/gokul-rm/leetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0078-subsets](https://github.com/gokul-rm/leetCode/tree/main/0078-subsets/) | Medium |
@@ -218,6 +219,7 @@ You can customize it further based on the specific details of your repository, s
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/gokul-rm/leetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0048-rotate-image](https://github.com/gokul-rm/leetCode/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/gokul-rm/leetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0064-minimum-path-sum](https://github.com/gokul-rm/leetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0174-dungeon-game](https://github.com/gokul-rm/leetCode/tree/main/0174-dungeon-game/) | Hard |
 | [0407-trapping-rain-water-ii](https://github.com/gokul-rm/leetCode/tree/main/0407-trapping-rain-water-ii/) | Hard |
@@ -348,6 +350,7 @@ You can customize it further based on the specific details of your repository, s
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/gokul-rm/leetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/gokul-rm/leetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/gokul-rm/leetCode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1688-count-of-matches-in-tournament](https://github.com/gokul-rm/leetCode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
