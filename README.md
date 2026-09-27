@@ -459,6 +459,7 @@ You can customize it further based on the specific details of your repository, s
 | [0062-unique-paths](https://github.com/gokul-rm/leetCode/tree/main/0062-unique-paths/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gokul-rm/leetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/gokul-rm/leetCode/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0326-power-of-three](https://github.com/gokul-rm/leetCode/tree/main/0326-power-of-three/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/gokul-rm/leetCode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/gokul-rm/leetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/gokul-rm/leetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
@@ -568,6 +569,7 @@ You can customize it further based on the specific details of your repository, s
 | [0060-permutation-sequence](https://github.com/gokul-rm/leetCode/tree/main/0060-permutation-sequence/) | Hard |
 | [0143-reorder-list](https://github.com/gokul-rm/leetCode/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/gokul-rm/leetCode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0326-power-of-three](https://github.com/gokul-rm/leetCode/tree/main/0326-power-of-three/) | Easy |
 | [2487-remove-nodes-from-linked-list](https://github.com/gokul-rm/leetCode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/gokul-rm/leetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Binary Search
