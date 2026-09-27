@@ -276,6 +276,7 @@ You can customize it further based on the specific details of your repository, s
 | [3612-process-string-with-special-operations-i](https://github.com/gokul-rm/leetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/gokul-rm/leetCode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/gokul-rm/leetCode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
+| [3794-reverse-string-prefix](https://github.com/gokul-rm/leetCode/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/gokul-rm/leetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -426,6 +427,7 @@ You can customize it further based on the specific details of your repository, s
 | [2161-partition-array-according-to-given-pivot](https://github.com/gokul-rm/leetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/gokul-rm/leetCode/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/gokul-rm/leetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [3794-reverse-string-prefix](https://github.com/gokul-rm/leetCode/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
