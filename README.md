@@ -269,6 +269,7 @@ You can customize it further based on the specific details of your repository, s
 | [2942-find-words-containing-character](https://github.com/gokul-rm/leetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/gokul-rm/leetCode/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 | [3110-score-of-a-string](https://github.com/gokul-rm/leetCode/tree/main/3110-score-of-a-string/) | Easy |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/gokul-rm/leetCode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3271-hash-divided-string](https://github.com/gokul-rm/leetCode/tree/main/3271-hash-divided-string/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/gokul-rm/leetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/gokul-rm/leetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -438,6 +439,7 @@ You can customize it further based on the specific details of your repository, s
 | [1684-count-the-number-of-consistent-strings](https://github.com/gokul-rm/leetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gokul-rm/leetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/gokul-rm/leetCode/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/gokul-rm/leetCode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -510,6 +512,7 @@ You can customize it further based on the specific details of your repository, s
 | [0131-palindrome-partitioning](https://github.com/gokul-rm/leetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0494-target-sum](https://github.com/gokul-rm/leetCode/tree/main/0494-target-sum/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gokul-rm/leetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/gokul-rm/leetCode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
