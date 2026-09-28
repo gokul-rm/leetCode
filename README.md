@@ -94,6 +94,7 @@ You can customize it further based on the specific details of your repository, s
 | [0150-evaluate-reverse-polish-notation](https://github.com/gokul-rm/leetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/gokul-rm/leetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gokul-rm/leetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0164-maximum-gap](https://github.com/gokul-rm/leetCode/tree/main/0164-maximum-gap/) | Medium |
 | [0174-dungeon-game](https://github.com/gokul-rm/leetCode/tree/main/0174-dungeon-game/) | Hard |
 | [0179-largest-number](https://github.com/gokul-rm/leetCode/tree/main/0179-largest-number/) | Medium |
 | [0198-house-robber](https://github.com/gokul-rm/leetCode/tree/main/0198-house-robber/) | Medium |
@@ -290,6 +291,7 @@ You can customize it further based on the specific details of your repository, s
 | [0047-permutations-ii](https://github.com/gokul-rm/leetCode/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/gokul-rm/leetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/gokul-rm/leetCode/tree/main/0056-merge-intervals/) | Medium |
+| [0164-maximum-gap](https://github.com/gokul-rm/leetCode/tree/main/0164-maximum-gap/) | Medium |
 | [0179-largest-number](https://github.com/gokul-rm/leetCode/tree/main/0179-largest-number/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/gokul-rm/leetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/gokul-rm/leetCode/tree/main/0229-majority-element-ii/) | Medium |
@@ -784,4 +786,16 @@ You can customize it further based on the specific details of your repository, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/gokul-rm/leetCode/tree/main/0229-majority-element-ii/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/gokul-rm/leetCode/tree/main/0164-maximum-gap/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/gokul-rm/leetCode/tree/main/0164-maximum-gap/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/gokul-rm/leetCode/tree/main/0164-maximum-gap/) | Medium |
 <!---LeetCode Topics End-->
