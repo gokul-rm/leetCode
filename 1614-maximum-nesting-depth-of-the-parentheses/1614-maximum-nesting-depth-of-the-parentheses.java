@@ -5,6 +5,7 @@ class Solution {
 
 
         for(char ch : s.toCharArray()){
+            if((ch >= '0'  && ch<='9') || ch == '+' || ch == '-' || ch == '*' || ch == '/') continue;
             if(ch == '('){
                 open++;
                 max = Math.max(open,max);
