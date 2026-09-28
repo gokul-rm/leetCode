@@ -101,6 +101,7 @@ You can customize it further based on the specific details of your repository, s
 | [0213-house-robber-ii](https://github.com/gokul-rm/leetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/gokul-rm/leetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0216-combination-sum-iii](https://github.com/gokul-rm/leetCode/tree/main/0216-combination-sum-iii/) | Medium |
+| [0229-majority-element-ii](https://github.com/gokul-rm/leetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/gokul-rm/leetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0287-find-the-duplicate-number](https://github.com/gokul-rm/leetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/gokul-rm/leetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
@@ -189,6 +190,7 @@ You can customize it further based on the specific details of your repository, s
 | [0076-minimum-window-substring](https://github.com/gokul-rm/leetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/gokul-rm/leetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0139-word-break](https://github.com/gokul-rm/leetCode/tree/main/0139-word-break/) | Medium |
+| [0229-majority-element-ii](https://github.com/gokul-rm/leetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gokul-rm/leetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0409-longest-palindrome](https://github.com/gokul-rm/leetCode/tree/main/0409-longest-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/gokul-rm/leetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -290,6 +292,7 @@ You can customize it further based on the specific details of your repository, s
 | [0056-merge-intervals](https://github.com/gokul-rm/leetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0179-largest-number](https://github.com/gokul-rm/leetCode/tree/main/0179-largest-number/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/gokul-rm/leetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0229-majority-element-ii](https://github.com/gokul-rm/leetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gokul-rm/leetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/gokul-rm/leetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/gokul-rm/leetCode/tree/main/0455-assign-cookies/) | Easy |
@@ -451,6 +454,7 @@ You can customize it further based on the specific details of your repository, s
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0229-majority-element-ii](https://github.com/gokul-rm/leetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0561-array-partition](https://github.com/gokul-rm/leetCode/tree/main/0561-array-partition/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/gokul-rm/leetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/gokul-rm/leetCode/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
@@ -776,4 +780,8 @@ You can customize it further based on the specific details of your repository, s
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/gokul-rm/leetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gokul-rm/leetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0229-majority-element-ii](https://github.com/gokul-rm/leetCode/tree/main/0229-majority-element-ii/) | Medium |
 <!---LeetCode Topics End-->
