@@ -243,6 +243,7 @@ You can customize it further based on the specific details of your repository, s
 | [0179-largest-number](https://github.com/gokul-rm/leetCode/tree/main/0179-largest-number/) | Medium |
 | [0344-reverse-string](https://github.com/gokul-rm/leetCode/tree/main/0344-reverse-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/gokul-rm/leetCode/tree/main/0409-longest-palindrome/) | Easy |
+| [0415-add-strings](https://github.com/gokul-rm/leetCode/tree/main/0415-add-strings/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/gokul-rm/leetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/gokul-rm/leetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/gokul-rm/leetCode/tree/main/0443-string-compression/) | Medium |
@@ -364,6 +365,7 @@ You can customize it further based on the specific details of your repository, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/gokul-rm/leetCode/tree/main/0054-spiral-matrix/) | Medium |
+| [0415-add-strings](https://github.com/gokul-rm/leetCode/tree/main/0415-add-strings/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/gokul-rm/leetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/gokul-rm/leetCode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1688-count-of-matches-in-tournament](https://github.com/gokul-rm/leetCode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
@@ -477,6 +479,7 @@ You can customize it further based on the specific details of your repository, s
 | [0171-excel-sheet-column-number](https://github.com/gokul-rm/leetCode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0326-power-of-three](https://github.com/gokul-rm/leetCode/tree/main/0326-power-of-three/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/gokul-rm/leetCode/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0415-add-strings](https://github.com/gokul-rm/leetCode/tree/main/0415-add-strings/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/gokul-rm/leetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/gokul-rm/leetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/gokul-rm/leetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
