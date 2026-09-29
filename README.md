@@ -277,6 +277,7 @@ You can customize it further based on the specific details of your repository, s
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/gokul-rm/leetCode/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 | [3110-score-of-a-string](https://github.com/gokul-rm/leetCode/tree/main/3110-score-of-a-string/) | Easy |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/gokul-rm/leetCode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
+| [3227-vowels-game-in-a-string](https://github.com/gokul-rm/leetCode/tree/main/3227-vowels-game-in-a-string/) | Medium |
 | [3271-hash-divided-string](https://github.com/gokul-rm/leetCode/tree/main/3271-hash-divided-string/) | Medium |
 | [3280-convert-date-to-binary](https://github.com/gokul-rm/leetCode/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/gokul-rm/leetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -503,6 +504,7 @@ You can customize it further based on the specific details of your repository, s
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/gokul-rm/leetCode/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/gokul-rm/leetCode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/gokul-rm/leetCode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
+| [3227-vowels-game-in-a-string](https://github.com/gokul-rm/leetCode/tree/main/3227-vowels-game-in-a-string/) | Medium |
 | [3280-convert-date-to-binary](https://github.com/gokul-rm/leetCode/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/gokul-rm/leetCode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/gokul-rm/leetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -749,6 +751,7 @@ You can customize it further based on the specific details of your repository, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/gokul-rm/leetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
+| [3227-vowels-game-in-a-string](https://github.com/gokul-rm/leetCode/tree/main/3227-vowels-game-in-a-string/) | Medium |
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -801,4 +804,8 @@ You can customize it further based on the specific details of your repository, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/gokul-rm/leetCode/tree/main/0164-maximum-gap/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3227-vowels-game-in-a-string](https://github.com/gokul-rm/leetCode/tree/main/3227-vowels-game-in-a-string/) | Medium |
 <!---LeetCode Topics End-->
