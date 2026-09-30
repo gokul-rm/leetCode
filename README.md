@@ -257,6 +257,7 @@ You can customize it further based on the specific details of your repository, s
 | [0940-distinct-subsequences-ii](https://github.com/gokul-rm/leetCode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1021-remove-outermost-parentheses](https://github.com/gokul-rm/leetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/gokul-rm/leetCode/tree/main/1108-defanging-an-ip-address/) | Easy |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/gokul-rm/leetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/gokul-rm/leetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/gokul-rm/leetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/gokul-rm/leetCode/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
@@ -327,6 +328,7 @@ You can customize it further based on the specific details of your repository, s
 | [0503-next-greater-element-ii](https://github.com/gokul-rm/leetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/gokul-rm/leetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/gokul-rm/leetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/gokul-rm/leetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1124-longest-well-performing-interval](https://github.com/gokul-rm/leetCode/tree/main/1124-longest-well-performing-interval/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/gokul-rm/leetCode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gokul-rm/leetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -791,6 +793,7 @@ You can customize it further based on the specific details of your repository, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/gokul-rm/leetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/gokul-rm/leetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gokul-rm/leetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
