@@ -154,6 +154,7 @@ You can customize it further based on the specific details of your repository, s
 | [2149-rearrange-array-elements-by-sign](https://github.com/gokul-rm/leetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/gokul-rm/leetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/gokul-rm/leetCode/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
+| [2373-largest-local-values-in-a-matrix](https://github.com/gokul-rm/leetCode/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/gokul-rm/leetCode/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/gokul-rm/leetCode/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/gokul-rm/leetCode/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
@@ -228,6 +229,7 @@ You can customize it further based on the specific details of your repository, s
 | [0064-minimum-path-sum](https://github.com/gokul-rm/leetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0174-dungeon-game](https://github.com/gokul-rm/leetCode/tree/main/0174-dungeon-game/) | Hard |
 | [0407-trapping-rain-water-ii](https://github.com/gokul-rm/leetCode/tree/main/0407-trapping-rain-water-ii/) | Hard |
+| [2373-largest-local-values-in-a-matrix](https://github.com/gokul-rm/leetCode/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/gokul-rm/leetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/gokul-rm/leetCode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## String
