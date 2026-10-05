@@ -255,6 +255,7 @@ You can customize it further based on the specific details of your repository, s
 | [0709-to-lower-case](https://github.com/gokul-rm/leetCode/tree/main/0709-to-lower-case/) | Easy |
 | [0771-jewels-and-stones](https://github.com/gokul-rm/leetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/gokul-rm/leetCode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
+| [0856-score-of-parentheses](https://github.com/gokul-rm/leetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/gokul-rm/leetCode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1021-remove-outermost-parentheses](https://github.com/gokul-rm/leetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/gokul-rm/leetCode/tree/main/1108-defanging-an-ip-address/) | Easy |
@@ -329,6 +330,7 @@ You can customize it further based on the specific details of your repository, s
 | [0496-next-greater-element-i](https://github.com/gokul-rm/leetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/gokul-rm/leetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/gokul-rm/leetCode/tree/main/0739-daily-temperatures/) | Medium |
+| [0856-score-of-parentheses](https://github.com/gokul-rm/leetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/gokul-rm/leetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/gokul-rm/leetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1124-longest-well-performing-interval](https://github.com/gokul-rm/leetCode/tree/main/1124-longest-well-performing-interval/) | Medium |
@@ -795,6 +797,7 @@ You can customize it further based on the specific details of your repository, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/gokul-rm/leetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0856-score-of-parentheses](https://github.com/gokul-rm/leetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/gokul-rm/leetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/gokul-rm/leetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gokul-rm/leetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
