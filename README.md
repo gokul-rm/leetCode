@@ -260,6 +260,7 @@ You can customize it further based on the specific details of your repository, s
 | [0771-jewels-and-stones](https://github.com/gokul-rm/leetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/gokul-rm/leetCode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0856-score-of-parentheses](https://github.com/gokul-rm/leetCode/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/gokul-rm/leetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/gokul-rm/leetCode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1021-remove-outermost-parentheses](https://github.com/gokul-rm/leetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/gokul-rm/leetCode/tree/main/1108-defanging-an-ip-address/) | Easy |
@@ -337,6 +338,7 @@ You can customize it further based on the specific details of your repository, s
 | [0503-next-greater-element-ii](https://github.com/gokul-rm/leetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/gokul-rm/leetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0856-score-of-parentheses](https://github.com/gokul-rm/leetCode/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/gokul-rm/leetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/gokul-rm/leetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/gokul-rm/leetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1124-longest-well-performing-interval](https://github.com/gokul-rm/leetCode/tree/main/1124-longest-well-performing-interval/) | Medium |
@@ -561,6 +563,7 @@ You can customize it further based on the specific details of your repository, s
 | [0455-assign-cookies](https://github.com/gokul-rm/leetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/gokul-rm/leetCode/tree/main/0561-array-partition/) | Easy |
 | [0881-boats-to-save-people](https://github.com/gokul-rm/leetCode/tree/main/0881-boats-to-save-people/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/gokul-rm/leetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/gokul-rm/leetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/gokul-rm/leetCode/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/gokul-rm/leetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -807,6 +810,7 @@ You can customize it further based on the specific details of your repository, s
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/gokul-rm/leetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0856-score-of-parentheses](https://github.com/gokul-rm/leetCode/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/gokul-rm/leetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/gokul-rm/leetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/gokul-rm/leetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gokul-rm/leetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
