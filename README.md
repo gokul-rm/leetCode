@@ -322,6 +322,7 @@ You can customize it further based on the specific details of your repository, s
 | [1833-maximum-ice-cream-bars](https://github.com/gokul-rm/leetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/gokul-rm/leetCode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/gokul-rm/leetCode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/gokul-rm/leetCode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/gokul-rm/leetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2974-minimum-number-game](https://github.com/gokul-rm/leetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/gokul-rm/leetCode/tree/main/3467-transform-array-by-parity/) | Easy |
@@ -514,6 +515,7 @@ You can customize it further based on the specific details of your repository, s
 | [1688-count-of-matches-in-tournament](https://github.com/gokul-rm/leetCode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/gokul-rm/leetCode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gokul-rm/leetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/gokul-rm/leetCode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2221-find-triangular-sum-of-an-array](https://github.com/gokul-rm/leetCode/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2235-add-two-integers](https://github.com/gokul-rm/leetCode/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/gokul-rm/leetCode/tree/main/2413-smallest-even-multiple/) | Easy |
@@ -571,6 +573,7 @@ You can customize it further based on the specific details of your repository, s
 | [1833-maximum-ice-cream-bars](https://github.com/gokul-rm/leetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/gokul-rm/leetCode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/gokul-rm/leetCode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/gokul-rm/leetCode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/gokul-rm/leetCode/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/gokul-rm/leetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Union-Find
