@@ -165,6 +165,7 @@ You can customize it further based on the specific details of your repository, s
 | [2798-number-of-employees-who-met-the-target](https://github.com/gokul-rm/leetCode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/gokul-rm/leetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/gokul-rm/leetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [2895-minimum-processing-time](https://github.com/gokul-rm/leetCode/tree/main/2895-minimum-processing-time/) | Medium |
 | [2942-find-words-containing-character](https://github.com/gokul-rm/leetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [2974-minimum-number-game](https://github.com/gokul-rm/leetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/gokul-rm/leetCode/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
@@ -327,6 +328,7 @@ You can customize it further based on the specific details of your repository, s
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/gokul-rm/leetCode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/gokul-rm/leetCode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/gokul-rm/leetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [2895-minimum-processing-time](https://github.com/gokul-rm/leetCode/tree/main/2895-minimum-processing-time/) | Medium |
 | [2974-minimum-number-game](https://github.com/gokul-rm/leetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/gokul-rm/leetCode/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Stack
@@ -583,6 +585,7 @@ You can customize it further based on the specific details of your repository, s
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/gokul-rm/leetCode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/gokul-rm/leetCode/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/gokul-rm/leetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [2895-minimum-processing-time](https://github.com/gokul-rm/leetCode/tree/main/2895-minimum-processing-time/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
