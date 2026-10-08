@@ -264,6 +264,7 @@ You can customize it further based on the specific details of your repository, s
 | [0771-jewels-and-stones](https://github.com/gokul-rm/leetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/gokul-rm/leetCode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0856-score-of-parentheses](https://github.com/gokul-rm/leetCode/tree/main/0856-score-of-parentheses/) | Medium |
+| [0880-decoded-string-at-index](https://github.com/gokul-rm/leetCode/tree/main/0880-decoded-string-at-index/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/gokul-rm/leetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/gokul-rm/leetCode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1021-remove-outermost-parentheses](https://github.com/gokul-rm/leetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -347,6 +348,7 @@ You can customize it further based on the specific details of your repository, s
 | [0503-next-greater-element-ii](https://github.com/gokul-rm/leetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/gokul-rm/leetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0856-score-of-parentheses](https://github.com/gokul-rm/leetCode/tree/main/0856-score-of-parentheses/) | Medium |
+| [0880-decoded-string-at-index](https://github.com/gokul-rm/leetCode/tree/main/0880-decoded-string-at-index/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/gokul-rm/leetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/gokul-rm/leetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/gokul-rm/leetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
