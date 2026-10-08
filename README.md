@@ -273,6 +273,7 @@ You can customize it further based on the specific details of your repository, s
 | [1189-maximum-number-of-balloons](https://github.com/gokul-rm/leetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/gokul-rm/leetCode/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/gokul-rm/leetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/gokul-rm/leetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gokul-rm/leetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/gokul-rm/leetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/gokul-rm/leetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
@@ -350,6 +351,7 @@ You can customize it further based on the specific details of your repository, s
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/gokul-rm/leetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1124-longest-well-performing-interval](https://github.com/gokul-rm/leetCode/tree/main/1124-longest-well-performing-interval/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/gokul-rm/leetCode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/gokul-rm/leetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gokul-rm/leetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1856-maximum-subarray-min-product](https://github.com/gokul-rm/leetCode/tree/main/1856-maximum-subarray-min-product/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/gokul-rm/leetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -577,6 +579,7 @@ You can customize it further based on the specific details of your repository, s
 | [0561-array-partition](https://github.com/gokul-rm/leetCode/tree/main/0561-array-partition/) | Easy |
 | [0881-boats-to-save-people](https://github.com/gokul-rm/leetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/gokul-rm/leetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/gokul-rm/leetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/gokul-rm/leetCode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/gokul-rm/leetCode/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/gokul-rm/leetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -828,6 +831,7 @@ You can customize it further based on the specific details of your repository, s
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/gokul-rm/leetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/gokul-rm/leetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/gokul-rm/leetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/gokul-rm/leetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gokul-rm/leetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
