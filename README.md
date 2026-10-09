@@ -118,6 +118,7 @@ You can customize it further based on the specific details of your repository, s
 | [0494-target-sum](https://github.com/gokul-rm/leetCode/tree/main/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/gokul-rm/leetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/gokul-rm/leetCode/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0539-minimum-time-difference](https://github.com/gokul-rm/leetCode/tree/main/0539-minimum-time-difference/) | Medium |
 | [0561-array-partition](https://github.com/gokul-rm/leetCode/tree/main/0561-array-partition/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/gokul-rm/leetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0645-set-mismatch](https://github.com/gokul-rm/leetCode/tree/main/0645-set-mismatch/) | Easy |
@@ -258,6 +259,7 @@ You can customize it further based on the specific details of your repository, s
 | [0438-find-all-anagrams-in-a-string](https://github.com/gokul-rm/leetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/gokul-rm/leetCode/tree/main/0443-string-compression/) | Medium |
 | [0535-encode-and-decode-tinyurl](https://github.com/gokul-rm/leetCode/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
+| [0539-minimum-time-difference](https://github.com/gokul-rm/leetCode/tree/main/0539-minimum-time-difference/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/gokul-rm/leetCode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/gokul-rm/leetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0709-to-lower-case](https://github.com/gokul-rm/leetCode/tree/main/0709-to-lower-case/) | Easy |
@@ -319,6 +321,7 @@ You can customize it further based on the specific details of your repository, s
 | [0435-non-overlapping-intervals](https://github.com/gokul-rm/leetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/gokul-rm/leetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gokul-rm/leetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [0539-minimum-time-difference](https://github.com/gokul-rm/leetCode/tree/main/0539-minimum-time-difference/) | Medium |
 | [0561-array-partition](https://github.com/gokul-rm/leetCode/tree/main/0561-array-partition/) | Easy |
 | [0645-set-mismatch](https://github.com/gokul-rm/leetCode/tree/main/0645-set-mismatch/) | Easy |
 | [0881-boats-to-save-people](https://github.com/gokul-rm/leetCode/tree/main/0881-boats-to-save-people/) | Medium |
@@ -520,6 +523,7 @@ You can customize it further based on the specific details of your repository, s
 | [0415-add-strings](https://github.com/gokul-rm/leetCode/tree/main/0415-add-strings/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/gokul-rm/leetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gokul-rm/leetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [0539-minimum-time-difference](https://github.com/gokul-rm/leetCode/tree/main/0539-minimum-time-difference/) | Medium |
 | [1266-minimum-time-visiting-all-points](https://github.com/gokul-rm/leetCode/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/gokul-rm/leetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/gokul-rm/leetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
