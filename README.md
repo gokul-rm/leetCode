@@ -163,6 +163,7 @@ You can customize it further based on the specific details of your repository, s
 | [2460-apply-operations-to-an-array](https://github.com/gokul-rm/leetCode/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/gokul-rm/leetCode/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/gokul-rm/leetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/gokul-rm/leetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/gokul-rm/leetCode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/gokul-rm/leetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/gokul-rm/leetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -820,6 +821,7 @@ You can customize it further based on the specific details of your repository, s
 | [1291-sequential-digits](https://github.com/gokul-rm/leetCode/tree/main/1291-sequential-digits/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gokul-rm/leetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/gokul-rm/leetCode/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/gokul-rm/leetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/gokul-rm/leetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Knapsack Problem
 | Problem Name | Difficulty |
