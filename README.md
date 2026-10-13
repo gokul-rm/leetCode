@@ -184,6 +184,7 @@ You can customize it further based on the specific details of your repository, s
 | [3683-earliest-time-to-finish-one-task](https://github.com/gokul-rm/leetCode/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/gokul-rm/leetCode/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/gokul-rm/leetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/gokul-rm/leetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/gokul-rm/leetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/gokul-rm/leetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/gokul-rm/leetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -339,6 +340,7 @@ You can customize it further based on the specific details of your repository, s
 | [2895-minimum-processing-time](https://github.com/gokul-rm/leetCode/tree/main/2895-minimum-processing-time/) | Medium |
 | [2974-minimum-number-game](https://github.com/gokul-rm/leetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/gokul-rm/leetCode/tree/main/3467-transform-array-by-parity/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/gokul-rm/leetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -600,6 +602,7 @@ You can customize it further based on the specific details of your repository, s
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/gokul-rm/leetCode/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/gokul-rm/leetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2895-minimum-processing-time](https://github.com/gokul-rm/leetCode/tree/main/2895-minimum-processing-time/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/gokul-rm/leetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
