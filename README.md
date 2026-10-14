@@ -201,6 +201,7 @@ You can customize it further based on the specific details of your repository, s
 | [0076-minimum-window-substring](https://github.com/gokul-rm/leetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/gokul-rm/leetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0139-word-break](https://github.com/gokul-rm/leetCode/tree/main/0139-word-break/) | Medium |
+| [0146-lru-cache](https://github.com/gokul-rm/leetCode/tree/main/0146-lru-cache/) | Medium |
 | [0229-majority-element-ii](https://github.com/gokul-rm/leetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/gokul-rm/leetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gokul-rm/leetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -435,6 +436,7 @@ You can customize it further based on the specific details of your repository, s
 | [0086-partition-list](https://github.com/gokul-rm/leetCode/tree/main/0086-partition-list/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/gokul-rm/leetCode/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0143-reorder-list](https://github.com/gokul-rm/leetCode/tree/main/0143-reorder-list/) | Medium |
+| [0146-lru-cache](https://github.com/gokul-rm/leetCode/tree/main/0146-lru-cache/) | Medium |
 | [0147-insertion-sort-list](https://github.com/gokul-rm/leetCode/tree/main/0147-insertion-sort-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/gokul-rm/leetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/gokul-rm/leetCode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
@@ -697,6 +699,7 @@ You can customize it further based on the specific details of your repository, s
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/gokul-rm/leetCode/tree/main/0146-lru-cache/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/gokul-rm/leetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0535-encode-and-decode-tinyurl](https://github.com/gokul-rm/leetCode/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/gokul-rm/leetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
@@ -793,6 +796,7 @@ You can customize it further based on the specific details of your repository, s
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/gokul-rm/leetCode/tree/main/0146-lru-cache/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/gokul-rm/leetCode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
