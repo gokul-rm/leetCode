@@ -539,6 +539,7 @@ You can customize it further based on the specific details of your repository, s
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/gokul-rm/leetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1641-count-sorted-vowel-strings](https://github.com/gokul-rm/leetCode/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [1688-count-of-matches-in-tournament](https://github.com/gokul-rm/leetCode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/gokul-rm/leetCode/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/gokul-rm/leetCode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gokul-rm/leetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/gokul-rm/leetCode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
