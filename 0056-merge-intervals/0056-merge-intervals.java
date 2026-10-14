@@ -1,23 +1,26 @@
 class Solution {
     public int[][] merge(int[][] intervals) {
-        List<int[]> list = new ArrayList<>();
-        Arrays.sort(intervals,(a,b) -> a[0] - b[0]);
-
-        int[] currIdx = intervals[0];
-        int curr = 1;
-
-        while(curr < intervals.length){
-            if(currIdx[1] >= intervals[curr][0]){
-                currIdx[0] = Math.min(currIdx[0],intervals[curr][0]);
-                currIdx[1] = Math.max(currIdx[1],intervals[curr][1]);
-            }
-            else{
-                list.add(currIdx);
-                currIdx = intervals[curr];    
-            }
-            curr++;
+        if (intervals.length <= 1) {
+            return intervals;
         }
-        list.add(currIdx);
-        return list.toArray(new int[0][]);
+
+        Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));
+
+        List<int[]> res = new ArrayList<>();
+        int[] curr = intervals[0];
+        res.add(curr);
+
+        for (int i = 1; i < intervals.length; i++) {
+            int[] next = intervals[i];
+
+            if (next[0] <= curr[1]) {
+                curr[1] = Math.max(curr[1], next[1]);
+            } else {
+                curr = next;
+                res.add(curr);
+            }
+        }
+
+        return res.toArray(new int[res.size()][]);
     }
 }
