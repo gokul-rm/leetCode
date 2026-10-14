@@ -560,6 +560,7 @@ You can customize it further based on the specific details of your repository, s
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/gokul-rm/leetCode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gokul-rm/leetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/gokul-rm/leetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/gokul-rm/leetCode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/gokul-rm/leetCode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3870-count-commas-in-range](https://github.com/gokul-rm/leetCode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/gokul-rm/leetCode/tree/main/3871-count-commas-in-range-ii/) | Medium |
@@ -604,6 +605,7 @@ You can customize it further based on the specific details of your repository, s
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/gokul-rm/leetCode/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/gokul-rm/leetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2895-minimum-processing-time](https://github.com/gokul-rm/leetCode/tree/main/2895-minimum-processing-time/) | Medium |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/gokul-rm/leetCode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/gokul-rm/leetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
