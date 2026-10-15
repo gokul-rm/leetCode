@@ -85,6 +85,7 @@ You can customize it further based on the specific details of your repository, s
 | [0056-merge-intervals](https://github.com/gokul-rm/leetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0064-minimum-path-sum](https://github.com/gokul-rm/leetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0078-subsets](https://github.com/gokul-rm/leetCode/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/gokul-rm/leetCode/tree/main/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/gokul-rm/leetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0090-subsets-ii](https://github.com/gokul-rm/leetCode/tree/main/0090-subsets-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/gokul-rm/leetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -240,6 +241,7 @@ You can customize it further based on the specific details of your repository, s
 | [0048-rotate-image](https://github.com/gokul-rm/leetCode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/gokul-rm/leetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0064-minimum-path-sum](https://github.com/gokul-rm/leetCode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0079-word-search](https://github.com/gokul-rm/leetCode/tree/main/0079-word-search/) | Medium |
 | [0174-dungeon-game](https://github.com/gokul-rm/leetCode/tree/main/0174-dungeon-game/) | Hard |
 | [0407-trapping-rain-water-ii](https://github.com/gokul-rm/leetCode/tree/main/0407-trapping-rain-water-ii/) | Hard |
 | [2373-largest-local-values-in-a-matrix](https://github.com/gokul-rm/leetCode/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
@@ -254,6 +256,7 @@ You can customize it further based on the specific details of your repository, s
 | [0020-valid-parentheses](https://github.com/gokul-rm/leetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/gokul-rm/leetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/gokul-rm/leetCode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0079-word-search](https://github.com/gokul-rm/leetCode/tree/main/0079-word-search/) | Medium |
 | [0115-distinct-subsequences](https://github.com/gokul-rm/leetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/gokul-rm/leetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/gokul-rm/leetCode/tree/main/0139-word-break/) | Medium |
@@ -583,6 +586,7 @@ You can customize it further based on the specific details of your repository, s
 | [0051-n-queens](https://github.com/gokul-rm/leetCode/tree/main/0051-n-queens/) | Hard |
 | [0077-combinations](https://github.com/gokul-rm/leetCode/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/gokul-rm/leetCode/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/gokul-rm/leetCode/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/gokul-rm/leetCode/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/gokul-rm/leetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/gokul-rm/leetCode/tree/main/0216-combination-sum-iii/) | Medium |
@@ -724,6 +728,7 @@ You can customize it further based on the specific details of your repository, s
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/gokul-rm/leetCode/tree/main/0079-word-search/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/gokul-rm/leetCode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/gokul-rm/leetCode/tree/main/0112-path-sum/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/gokul-rm/leetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
