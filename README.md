@@ -203,6 +203,7 @@ You can customize it further based on the specific details of your repository, s
 | [0049-group-anagrams](https://github.com/gokul-rm/leetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/gokul-rm/leetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/gokul-rm/leetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/gokul-rm/leetCode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0139-word-break](https://github.com/gokul-rm/leetCode/tree/main/0139-word-break/) | Medium |
 | [0146-lru-cache](https://github.com/gokul-rm/leetCode/tree/main/0146-lru-cache/) | Medium |
 | [0229-majority-element-ii](https://github.com/gokul-rm/leetCode/tree/main/0229-majority-element-ii/) | Medium |
@@ -442,6 +443,7 @@ You can customize it further based on the specific details of your repository, s
 | [0061-rotate-list](https://github.com/gokul-rm/leetCode/tree/main/0061-rotate-list/) | Medium |
 | [0086-partition-list](https://github.com/gokul-rm/leetCode/tree/main/0086-partition-list/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/gokul-rm/leetCode/tree/main/0092-reverse-linked-list-ii/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/gokul-rm/leetCode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0143-reorder-list](https://github.com/gokul-rm/leetCode/tree/main/0143-reorder-list/) | Medium |
 | [0146-lru-cache](https://github.com/gokul-rm/leetCode/tree/main/0146-lru-cache/) | Medium |
 | [0147-insertion-sort-list](https://github.com/gokul-rm/leetCode/tree/main/0147-insertion-sort-list/) | Medium |
