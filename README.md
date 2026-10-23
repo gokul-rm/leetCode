@@ -732,6 +732,7 @@ You can customize it further based on the specific details of your repository, s
 | [0222-count-complete-tree-nodes](https://github.com/gokul-rm/leetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/gokul-rm/leetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/gokul-rm/leetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/gokul-rm/leetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/gokul-rm/leetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -761,6 +762,7 @@ You can customize it further based on the specific details of your repository, s
 | [0222-count-complete-tree-nodes](https://github.com/gokul-rm/leetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/gokul-rm/leetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/gokul-rm/leetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/gokul-rm/leetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/gokul-rm/leetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
@@ -786,6 +788,7 @@ You can customize it further based on the specific details of your repository, s
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/gokul-rm/leetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/gokul-rm/leetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |
