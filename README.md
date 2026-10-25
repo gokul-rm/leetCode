@@ -134,6 +134,7 @@ You can customize it further based on the specific details of your repository, s
 | [0918-maximum-sum-circular-subarray](https://github.com/gokul-rm/leetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/gokul-rm/leetCode/tree/main/1049-last-stone-weight-ii/) | Medium |
 | [1124-longest-well-performing-interval](https://github.com/gokul-rm/leetCode/tree/main/1124-longest-well-performing-interval/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/gokul-rm/leetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1266-minimum-time-visiting-all-points](https://github.com/gokul-rm/leetCode/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/gokul-rm/leetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/gokul-rm/leetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -248,6 +249,7 @@ You can customize it further based on the specific details of your repository, s
 | [0079-word-search](https://github.com/gokul-rm/leetCode/tree/main/0079-word-search/) | Medium |
 | [0174-dungeon-game](https://github.com/gokul-rm/leetCode/tree/main/0174-dungeon-game/) | Hard |
 | [0407-trapping-rain-water-ii](https://github.com/gokul-rm/leetCode/tree/main/0407-trapping-rain-water-ii/) | Hard |
+| [1254-number-of-closed-islands](https://github.com/gokul-rm/leetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2373-largest-local-values-in-a-matrix](https://github.com/gokul-rm/leetCode/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/gokul-rm/leetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/gokul-rm/leetCode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
@@ -626,6 +628,7 @@ You can customize it further based on the specific details of your repository, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/gokul-rm/leetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/gokul-rm/leetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/gokul-rm/leetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/gokul-rm/leetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Dynamic Programming
@@ -744,6 +747,7 @@ You can customize it further based on the specific details of your repository, s
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/gokul-rm/leetCode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/gokul-rm/leetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/gokul-rm/leetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [1254-number-of-closed-islands](https://github.com/gokul-rm/leetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/gokul-rm/leetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -751,6 +755,7 @@ You can customize it further based on the specific details of your repository, s
 | [0112-path-sum](https://github.com/gokul-rm/leetCode/tree/main/0112-path-sum/) | Easy |
 | [0322-coin-change](https://github.com/gokul-rm/leetCode/tree/main/0322-coin-change/) | Medium |
 | [0407-trapping-rain-water-ii](https://github.com/gokul-rm/leetCode/tree/main/0407-trapping-rain-water-ii/) | Hard |
+| [1254-number-of-closed-islands](https://github.com/gokul-rm/leetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/gokul-rm/leetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/gokul-rm/leetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Binary Tree
